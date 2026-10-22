@@ -43,18 +43,7 @@ PAGINAS = [
         "urls": ["https://dogc.gencat.cat/ca/inici/"],
         # Desde la portada, abre el sumario del último número
         "seguir": r"sumari-del-dogc/\?numDOGC=\d+$",
-    },
-    {
-        "fuente": "BOP Lleida",
-        "urls": ["https://ebop.diputaciolleida.cat/bop/"],
-        "espera": 90,
-        "carga": "commit",
-        "filtro": [
-            "ajuntament de lleida", "paeria",
-            "consell comarcal de la noguera", "noguera",
-            "consell comarcal del segrià", "segrià", "segria",
-            "subvenc", "ajut", "ordenança", "ordenanza", "conveni",
-        ],
+        "patron_enlace": r"document-del-dogc",
     },
     {
         "fuente": "Consell Comarcal del Segrià (web)",
@@ -71,12 +60,7 @@ PAGINAS = [
 ]
 
 # Canales RSS (más fiables que leer la página)
-RSS = [
-    {"fuente": "Consell Comarcal del Segrià",
-     "url": "https://www.segria.cat/rss/actualitat"},
-    {"fuente": "Consell Comarcal del Segrià (convocatòries)",
-     "url": "https://www.segria.cat/rss/convocatories"},
-]
+RSS = []  # El RSS del Segrià devuelve HTML; se usa su web de noticias
 
 # Enlaces que no aportan nada (menús, redes, avisos legales...)
 DESCARTAR_TEXTO = re.compile(
