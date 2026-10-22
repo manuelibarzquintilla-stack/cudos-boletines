@@ -2,7 +2,7 @@ name: Recoger boletines
 
 on:
   schedule:
-    - cron: "45 6 * * 1-6"
+    - cron: "31 7 * * 1-6"
   workflow_dispatch: {}
 
 permissions:
