@@ -40,18 +40,25 @@ UA = (
 PAGINAS = [
     {
         "fuente": "DOGC",
-        "urls": ["https://dogc.gencat.cat/ca/inici/", "https://dogc.gencat.cat/ca/"],
+        "urls": ["https://dogc.gencat.cat/ca/inici/"],
+        # Desde la portada, abre el sumario del último número
+        "seguir": r"sumari-del-dogc/\?numDOGC=\d+$",
     },
     {
         "fuente": "BOP Lleida",
         "urls": ["https://ebop.diputaciolleida.cat/bop/"],
-        "espera": 120,
+        "espera": 90,
+        "carga": "commit",
         "filtro": [
             "ajuntament de lleida", "paeria",
             "consell comarcal de la noguera", "noguera",
             "consell comarcal del segrià", "segrià", "segria",
             "subvenc", "ajut", "ordenança", "ordenanza", "conveni",
         ],
+    },
+    {
+        "fuente": "Consell Comarcal del Segrià (web)",
+        "urls": ["https://www.segria.cat/actualitat"],
     },
     {
         "fuente": "Ajuntament de Lleida",
@@ -160,26 +167,35 @@ def recoger_bdns():
 
 # ---------------------------------------------------------------- RSS
 def recoger_rss(cfg):
-    import xml.etree.ElementTree as ET
+    """Lee un RSS con expresiones regulares, para tolerar XML mal formado."""
+    from email.utils import parsedate_to_datetime
+    from html import unescape
     r = requests.get(cfg["url"], headers={"User-Agent": UA}, timeout=TIMEOUT)
     r.raise_for_status()
-    raiz = ET.fromstring(r.content)
+    texto = r.content.decode(r.encoding or "utf-8", errors="replace")
+
+    def campo(bloque, etiqueta):
+        m = re.search(rf"<{etiqueta}[^>]*>(.*?)</{etiqueta}>", bloque, re.S | re.I)
+        if not m:
+            return ""
+        valor = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", m.group(1), flags=re.S)
+        return re.sub(r"<[^>]+>", " ", unescape(valor)).strip()
+
+    bloques = re.findall(r"<item\b.*?</item>", texto, re.S | re.I)
+    if not bloques:
+        return [], f"La respuesta no contiene elementos RSS (empieza por: {texto[:80]!r})"
     limite = HOY - timedelta(days=7)
     resultados = []
-    for it in raiz.iter("item"):
-        titulo = it.findtext("title") or ""
-        enlace = it.findtext("link") or ""
-        desc = re.sub(r"<[^>]+>", " ", it.findtext("description") or "")
-        fecha_txt = it.findtext("pubDate") or ""
+    for b in bloques:
         fecha = None
         try:
-            from email.utils import parsedate_to_datetime
-            fecha = parsedate_to_datetime(fecha_txt).date()
+            fecha = parsedate_to_datetime(campo(b, "pubDate")).date()
         except Exception:  # noqa: BLE001
             pass
         if fecha and fecha < limite:
             continue
-        resultados.append(item(cfg["fuente"], titulo, enlace, extracto=desc,
+        resultados.append(item(cfg["fuente"], campo(b, "title"), campo(b, "link"),
+                               extracto=campo(b, "description"),
                                fecha=fecha.isoformat() if fecha else None))
     return resultados, None if resultados else "Sin novedades en los últimos 7 días"
 
@@ -199,11 +215,24 @@ def recoger_paginas():
             for url in cfg["urls"]:
                 try:
                     pagina = contexto.new_page()
-                    pagina.goto(url, wait_until="domcontentloaded",
+                    pagina.goto(url, wait_until=cfg.get("carga", "domcontentloaded"),
                                 timeout=cfg.get("espera", TIMEOUT) * 1000)
-                    pagina.wait_for_timeout(5000)
+                    pagina.wait_for_timeout(8000 if cfg.get("carga") == "commit" else 5000)
                     enlaces = pagina.eval_on_selector_all(
                         "a[href]", "els => els.map(e => [e.innerText, e.href])")
+                    if cfg.get("seguir"):
+                        destino = next((h for _, h in enlaces
+                                        if re.search(cfg["seguir"], h)), None)
+                        if not destino:
+                            raise RuntimeError("No se encontró el enlace al sumario")
+                        menu = {h for _, h in enlaces}
+                        pagina.goto(destino, wait_until="domcontentloaded",
+                                    timeout=TIMEOUT * 1000)
+                        pagina.wait_for_timeout(5000)
+                        url = destino
+                        enlaces = [e for e in pagina.eval_on_selector_all(
+                            "a[href]", "els => els.map(e => [e.innerText, e.href])")
+                            if e[1] not in menu and "#" not in e[1]]
                     titulo_pagina = pagina.title()
                     pagina.close()
                 except Exception as e:  # noqa: BLE001
