@@ -170,13 +170,16 @@ def recoger_bdns():
             break
         pagina += 1
 
-    # Ficha completa solo de las convocatorias estatales, de Cataluña o de Lleida
-    def interesa(r):
-        o = r["extracto"].upper()
-        return o.startswith("ESTADO") or "CATALU" in o or "LLEIDA" in o or "LÉRIDA" in o
+    # Ficha completa de cada convocatoria (en paralelo) y ámbito territorial
+    from concurrent.futures import ThreadPoolExecutor
 
-    candidatas = [r for r in resultados if interesa(r)][:120]
-    for r in candidatas:
+    campos = ("organo", "tiposBeneficiarios", "sectores", "regiones",
+              "descripcionFinalidad", "presupuestoTotal", "abierto",
+              "fechaInicioSolicitud", "fechaFinSolicitud", "textInicio", "textFin",
+              "sedeElectronica", "urlBasesReguladoras", "descripcionBasesReguladoras",
+              "instrumentos", "tipoConvocatoria")
+
+    def ficha(r):
         try:
             d = requests.get(
                 "https://www.infosubvenciones.es/bdnstrans/api/convocatorias",
@@ -184,15 +187,22 @@ def recoger_bdns():
                 headers={"Accept": "application/json", "User-Agent": UA},
                 timeout=30).json()
         except Exception:  # noqa: BLE001
-            continue
+            return
         if not isinstance(d, dict):
-            continue
-        r["detalle"] = {k: d.get(k) for k in (
-            "tiposBeneficiarios", "tipoBeneficiarios", "sectores", "regiones",
-            "finalidad", "presupuestoTotal", "abierto",
-            "fechaInicioSolicitud", "fechaFinSolicitud", "textInicio", "textFin",
-            "sedeElectronica", "urlBasesReguladoras", "descripcionBasesReguladoras",
-            "instrumentos", "tipoConvocatoria") if d.get(k) not in (None, "", [])}
+            return
+        r["detalle"] = {k: d.get(k) for k in campos if d.get(k) not in (None, "", [])}
+        # Ámbito: España entera (ES), Cataluña (ES51) o provincia de Lleida (ES513)
+        codigos = re.findall(r"\bES\d*\b", json.dumps(d.get("regiones"), ensure_ascii=False))
+        r["en_ambito"] = any(c == "ES" or c == "ES5" or c.startswith("ES51")
+                             for c in codigos)
+        if r["en_ambito"] and any(c.startswith("ES511") or c.startswith("ES512")
+                                  or c.startswith("ES514") for c in codigos) \
+                and not any(c in ("ES", "ES5", "ES51") or c.startswith("ES513")
+                            for c in codigos):
+            r["en_ambito"] = False  # solo Barcelona, Girona o Tarragona
+
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        list(ex.map(ficha, resultados[:600]))
     return resultados, None
 
 
