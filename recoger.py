@@ -62,6 +62,27 @@ PAGINAS = [
 # Canales RSS (más fiables que leer la página)
 RSS = []  # El RSS del Segrià devuelve HTML; se usa su web de noticias
 
+# JavaScript que devuelve cada enlace con los encabezados que tiene encima
+# (sección y organismo), para saber, p. ej., de qué ayuntamiento es un anuncio.
+JS_ENLACES = """() => {
+  const nivel = {H1:1, H2:2, H3:3, H4:4, H5:5, H6:6};
+  const actual = {};
+  const salida = [];
+  const w = document.createTreeWalker(document.body, NodeFilter.SHOW_ELEMENT);
+  let n;
+  while ((n = w.nextNode())) {
+    if (nivel[n.tagName]) {
+      const k = nivel[n.tagName];
+      actual[k] = (n.innerText || '').trim().replace(/\\s+/g, ' ');
+      for (let i = k + 1; i <= 6; i++) delete actual[i];
+    } else if (n.tagName === 'A' && n.href) {
+      const ctx = Object.keys(actual).sort().map(k => actual[k]).filter(Boolean).join(' > ');
+      salida.push([n.innerText, n.href, ctx]);
+    }
+  }
+  return salida;
+}"""
+
 # Enlaces que no aportan nada (menús, redes, avisos legales...)
 DESCARTAR_TEXTO = re.compile(
     r"^(inici|inicio|home|contacte|contacto|cerca|buscar|mapa web|accessibilitat|"
@@ -202,21 +223,19 @@ def recoger_paginas():
                     pagina.goto(url, wait_until=cfg.get("carga", "domcontentloaded"),
                                 timeout=cfg.get("espera", TIMEOUT) * 1000)
                     pagina.wait_for_timeout(8000 if cfg.get("carga") == "commit" else 5000)
-                    enlaces = pagina.eval_on_selector_all(
-                        "a[href]", "els => els.map(e => [e.innerText, e.href])")
+                    enlaces = pagina.evaluate(JS_ENLACES)
                     if cfg.get("seguir"):
-                        destino = next((h for _, h in enlaces
+                        destino = next((h for _, h, _c in enlaces
                                         if re.search(cfg["seguir"], h)), None)
                         if not destino:
                             raise RuntimeError("No se encontró el enlace al sumario")
-                        menu = {h for _, h in enlaces}
+                        menu = {h for _, h, _c in enlaces}
                         pagina.goto(destino, wait_until="domcontentloaded",
                                     timeout=TIMEOUT * 1000)
                         pagina.wait_for_timeout(5000)
                         url = destino
-                        enlaces = [e for e in pagina.eval_on_selector_all(
-                            "a[href]", "els => els.map(e => [e.innerText, e.href])")
-                            if e[1] not in menu and "#" not in e[1]]
+                        enlaces = [e for e in pagina.evaluate(JS_ENLACES)
+                                   if e[1] not in menu and "#" not in e[1]]
                     titulo_pagina = pagina.title()
                     pagina.close()
                 except Exception as e:  # noqa: BLE001
@@ -228,12 +247,12 @@ def recoger_paginas():
                 with open(os.path.join(CARPETA, "debug", f"{nombre}.json"), "w",
                           encoding="utf-8") as f:
                     json.dump({"url": url, "titulo": titulo_pagina,
-                               "enlaces": [[" ".join((t or "").split()), h]
-                                           for t, h in enlaces][:400]},
+                               "enlaces": [[" ".join((t or "").split()), h, c]
+                                           for t, h, c in enlaces][:400]},
                               f, ensure_ascii=False, indent=1)
 
                 vistos, items = set(), []
-                for texto, href in enlaces:
+                for texto, href, ctx in enlaces:
                     texto = " ".join((texto or "").split())
                     if len(texto) < 15 or DESCARTAR_TEXTO.match(texto):
                         continue
@@ -245,7 +264,8 @@ def recoger_paginas():
                     if cfg.get("filtro") and not any(f in texto.lower() for f in cfg["filtro"]):
                         continue
                     vistos.add(href)
-                    items.append(item(fuente, texto, href))
+                    # El encabezado (organismo) va en "seccion" y en el extracto
+                    items.append(item(fuente, texto, href, extracto=ctx, seccion=ctx))
                 salida[fuente] = (items, None if items else
                                   f"{url} abierta ({len(enlaces)} enlaces), ninguno útil")
                 break
