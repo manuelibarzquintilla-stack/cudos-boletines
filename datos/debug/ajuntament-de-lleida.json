@@ -1,0 +1,1514 @@
+{
+ "url": "https://www.paeria.cat/ca/actualitat/noticies",
+ "titulo": "Notícies - La Paeria - Ajuntament de Lleida",
+ "enlaces": [
+  [
+   "SALTAR AL CONTINGUT",
+   "https://www.paeria.cat/ca/actualitat/noticies#content"
+  ],
+  [
+   "SALTAR A LA NAVEGACIÓ",
+   "https://www.paeria.cat/ca/actualitat/noticies#mainMenu"
+  ],
+  [
+   "INFORMACIÓ DE CONTACTE",
+   "https://www.paeria.cat/ca/actualitat/noticies#portal-info"
+  ],
+  [
+   "",
+   "https://www.paeria.cat/"
+  ],
+  [
+   "Català",
+   "https://www.paeria.cat/ca/actualitat/noticies/noticies/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Español",
+   "https://www.paeria.cat/ca/actualitat/noticies/noticies/@@redirect_language?set_language=es"
+  ],
+  [
+   "LA MEVA CARPETA",
+   "https://valid.aoc.cat/o/oauth2/auth?scope=autenticacio_usuari&state=L0NpdXRhZGFuaWEsQVVURU5USUNBVCw1TzFBM1FNV0ZJ&redirect_uri=https://tramits.paeria.cat/valid.aspx&response_type=code&client_id=tramits.lleida.cat&approval_prompt=auto&access_type=offline"
+  ],
+  [
+   "Ajuntament",
+   "https://www.paeria.cat/ca/actualitat/noticies#"
+  ],
+  [
+   "Ajuntament",
+   "https://www.paeria.cat/ca/ajuntament"
+  ],
+  [
+   "El govern",
+   "https://www.paeria.cat/ca/ajuntament/el-govern"
+  ],
+  [
+   "Organització",
+   "https://www.paeria.cat/ca/ajuntament/organitzacio"
+  ],
+  [
+   "Grups municipals 2023-2027",
+   "https://www.paeria.cat/ca/ajuntament/grups-municipals"
+  ],
+  [
+   "El ple municipal",
+   "https://www.paeria.cat/ca/ajuntament/el-ple-municipal"
+  ],
+  [
+   "Acció de Govern",
+   "https://www.paeria.cat/ca/ajuntament/accio-de-govern"
+  ],
+  [
+   "Projectes estratègics",
+   "https://www.paeria.cat/ca/ajuntament/projectes-estrategics"
+  ],
+  [
+   "Transparència i dades obertes",
+   "https://www.paeria.cat/ca/ajuntament/transparenciaidadesobertes"
+  ],
+  [
+   "Sindicatura de greuges",
+   "https://www.paeria.cat/ca/ajuntament/sindicatura-de-greuges"
+  ],
+  [
+   "Comunicació",
+   "https://www.paeria.cat/ca/ajuntament/comunicacio"
+  ],
+  [
+   "Informació econòmica",
+   "https://www.paeria.cat/ca/ajuntament/informacio-economica"
+  ],
+  [
+   "Atenció ciutadana",
+   "https://www.paeria.cat/ca/ajuntament/atencio-ciutadana"
+  ],
+  [
+   "Cita prèvia",
+   "https://www.paeria.cat/ca/ajuntament/cita-previa"
+  ],
+  [
+   "Canal de comunicació d’informants",
+   "https://www.paeria.cat/ca/ajuntament/informants"
+  ],
+  [
+   "Bústia Ètica i de Bon Govern",
+   "https://www.paeria.cat/ca/ajuntament/bustiaetica"
+  ],
+  [
+   "Fèlix Larrosa - L'Alcalde",
+   "https://www.paeria.cat/ca/ajuntament/grups-municipals/psc/felix-larrosa-pique"
+  ],
+  [
+   "Serveis",
+   "https://www.paeria.cat/ca/actualitat/noticies#"
+  ],
+  [
+   "Serveis",
+   "https://www.paeria.cat/ca/serveis"
+  ],
+  [
+   "Acció i Innovació Social",
+   "https://www.paeria.cat/ca/serveis/serveis-socials"
+  ],
+  [
+   "Animals",
+   "https://www.paeria.cat/ca/serveis/animals"
+  ],
+  [
+   "Cultura",
+   "https://www.paeria.cat/ca/serveis/cultura"
+  ],
+  [
+   "Comerç i Mercats",
+   "https://www.paeria.cat/ca/serveis/comerc"
+  ],
+  [
+   "Consum",
+   "https://www.paeria.cat/ca/serveis/consum"
+  ],
+  [
+   "Drets civils",
+   "https://www.paeria.cat/ca/serveis/drets-civils"
+  ],
+  [
+   "Educació",
+   "https://www.paeria.cat/ca/serveis/educacio"
+  ],
+  [
+   "EMAU",
+   "https://www.paeria.cat/ca/serveis/emau"
+  ],
+  [
+   "Esports",
+   "https://www.paeria.cat/ca/serveis/esports"
+  ],
+  [
+   "Feminisme",
+   "https://www.paeria.cat/ca/serveis/feminisme"
+  ],
+  [
+   "Horta de Lleida",
+   "https://www.paeria.cat/ca/serveis/horta-de-lleida"
+  ],
+  [
+   "Igualtat",
+   "https://www.paeria.cat/ca/serveis/igualtat"
+  ],
+  [
+   "Infància",
+   "https://www.paeria.cat/ca/serveis/infancia"
+  ],
+  [
+   "Joventut",
+   "https://www.paeria.cat/ca/serveis/joventut"
+  ],
+  [
+   "Llengua catalana: cursos, eines i recursos",
+   "https://www.paeria.cat/ca/serveis/llengua-catalana"
+  ],
+  [
+   "Medi ambient",
+   "https://www.paeria.cat/ca/serveis/mediambient"
+  ],
+  [
+   "Ocupació",
+   "https://www.paeria.cat/ca/serveis/ocupacio"
+  ],
+  [
+   "Participació",
+   "https://www.paeria.cat/ca/serveis/participacio"
+  ],
+  [
+   "Promoció econòmica",
+   "https://www.paeria.cat/ca/serveis/promocio-economica"
+  ],
+  [
+   "Salut pública",
+   "https://www.paeria.cat/ca/serveis/salut-publica"
+  ],
+  [
+   "Seguretat pública",
+   "https://www.paeria.cat/ca/serveis/seguretat"
+  ],
+  [
+   "Sèniors Lleida",
+   "https://www.paeria.cat/ca/serveis/seniors-lleida"
+  ],
+  [
+   "Serveis funeraris",
+   "https://www.paeria.cat/ca/serveis/serveis-funeraris"
+  ],
+  [
+   "Solidaritat i cooperació",
+   "https://www.paeria.cat/ca/serveis/solidaritat-i-cooperacio"
+  ],
+  [
+   "Transports i mobilitat",
+   "https://www.paeria.cat/ca/serveis/transports-i-mobilitat"
+  ],
+  [
+   "Turisme",
+   "https://www.paeria.cat/ca/serveis/turisme"
+  ],
+  [
+   "Urbanisme",
+   "https://www.paeria.cat/ca/serveis/urbanisme"
+  ],
+  [
+   "Més serveis – Regidories i departaments",
+   "https://www.paeria.cat/ca/serveis/mes-serveis-regidories-i-departaments"
+  ],
+  [
+   "Més serveis – Regidories i departaments",
+   "https://www.paeria.cat/ca/ajuntament/organitzacio/regidories-i-departaments"
+  ],
+  [
+   "Seu electrònica",
+   "https://www.paeria.cat/ca/actualitat/noticies#"
+  ],
+  [
+   "Seu electrònica",
+   "https://www.paeria.cat/ca/seu-electronica"
+  ],
+  [
+   "Obrir Seu electrònica",
+   "https://www.paeria.cat/ca/seu-electronica/seu-electronica-2"
+  ],
+  [
+   "Tràmits i gestions",
+   "https://www.paeria.cat/ca/seu-electronica/tramits-i-gestions"
+  ],
+  [
+   "Oficina Virtual Tributària",
+   "https://www.paeria.cat/ca/seu-electronica/oficina-virtual-tributaria"
+  ],
+  [
+   "Tauler d'anuncis",
+   "https://www.paeria.cat/ca/seu-electronica/tauler-danuncis"
+  ],
+  [
+   "Normativa",
+   "https://www.paeria.cat/ca/seu-electronica/normativa"
+  ],
+  [
+   "Oferta pública d'ocupació",
+   "https://www.paeria.cat/ca/seu-electronica/oferta-publica-docupacio"
+  ],
+  [
+   "Bústia ciutadana",
+   "https://www.paeria.cat/ca/seu-electronica/bustia-ciutadana"
+  ],
+  [
+   "Perfil del contractant - licitacions",
+   "https://www.paeria.cat/ca/seu-electronica/perfil-del-contractant"
+  ],
+  [
+   "Factura electrònica",
+   "https://www.paeria.cat/ca/seu-electronica/factura-electronica"
+  ],
+  [
+   "Pagaments",
+   "https://www.paeria.cat/ca/seu-electronica/pagaments"
+  ],
+  [
+   "Pressupostos",
+   "https://www.paeria.cat/ca/seu-electronica/pressupostos"
+  ],
+  [
+   "Ordenances fiscals",
+   "https://www.paeria.cat/ca/seu-electronica/ordenances-fiscals"
+  ],
+  [
+   "Calendari fiscal",
+   "https://www.paeria.cat/ca/seu-electronica/calendari-fiscal"
+  ],
+  [
+   "Carta de serveis",
+   "https://www.paeria.cat/ca/seu-electronica/carta-de-serveis"
+  ],
+  [
+   "Seu electrònica",
+   "https://seu.paeria.cat/"
+  ],
+  [
+   "Ciutat",
+   "https://www.paeria.cat/ca/actualitat/noticies#"
+  ],
+  [
+   "Ciutat",
+   "https://www.paeria.cat/ca/ciutat"
+  ],
+  [
+   "Plànols",
+   "https://www.paeria.cat/ca/ciutat/planols"
+  ],
+  [
+   "Conèixer Lleida",
+   "https://www.paeria.cat/ca/ciutat/coneixer-lleida"
+  ],
+  [
+   "APP's",
+   "https://www.paeria.cat/ca/ciutat/apps"
+  ],
+  [
+   "Informació d'interès",
+   "https://www.paeria.cat/ca/ciutat/informacio-dinteres"
+  ],
+  [
+   "Arxiu municipal",
+   "https://www.paeria.cat/ca/ciutat/arxiu-municipal"
+  ],
+  [
+   "Directori de Lleida",
+   "https://www.paeria.cat/ca/ciutat/directori"
+  ],
+  [
+   "Directori de webs",
+   "https://www.paeria.cat/ca/ciutat/directori-de-webs"
+  ],
+  [
+   "Directori de xarxes socials",
+   "https://www.paeria.cat/ca/ciutat/directori-de-xarxes-socials"
+  ],
+  [
+   "Turisme",
+   "https://www.paeria.cat/ca/ciutat/turisme"
+  ],
+  [
+   "Calendaris",
+   "https://www.paeria.cat/ca/ciutat/calendaris"
+  ],
+  [
+   "Registre Municipal d'Entitats",
+   "https://www.paeria.cat/ca/ciutat/registre-municipal-dentitats"
+  ],
+  [
+   "Honors i distincions",
+   "https://www.paeria.cat/ca/ciutat/honors-i-distincions-de-lajuntament-de-lleida"
+  ],
+  [
+   "Visita Lleida",
+   "https://www.lleidaturisme.cat/"
+  ],
+  [
+   "Actualitat",
+   "https://www.paeria.cat/ca/actualitat/noticies#"
+  ],
+  [
+   "Actualitat",
+   "https://www.paeria.cat/ca/actualitat"
+  ],
+  [
+   "Agenda",
+   "https://www.paeria.cat/ca/actualitat/agenda"
+  ],
+  [
+   "Notícies",
+   "https://www.paeria.cat/ca/actualitat/noticies"
+  ],
+  [
+   "Avisos",
+   "https://www.paeria.cat/ca/actualitat/avisos"
+  ],
+  [
+   "Publicacions",
+   "https://www.paeria.cat/ca/actualitat/publicacions"
+  ],
+  [
+   "Butlletins",
+   "https://www.paeria.cat/ca/actualitat/butlletins"
+  ],
+  [
+   "Els grups municipals opinen",
+   "https://www.paeria.cat/ca/actualitat/els-grups-municipals-opinen"
+  ],
+  [
+   "Directori de xarxes socials",
+   "https://www.paeria.cat/ca/actualitat/directori-de-xarxes-socials"
+  ],
+  [
+   "Canals d'RSS de l'Ajuntament de Lleida",
+   "https://www.paeria.cat/ca/actualitat/canals-rss"
+  ],
+  [
+   "Canal de Telegram",
+   "https://t.me/joinchat/AAAAAFkPBMydYRJE_vzeZA"
+  ],
+  [
+   "Participa!",
+   "https://www.paeria.cat/ca/copy_of_participa"
+  ],
+  [
+   "Webs municipals",
+   "https://www.paeria.cat/ca/ciutat/directori-de-webs/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Plànols",
+   "https://www.paeria.cat/planols"
+  ],
+  [
+   "Bústia ciutadana",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=1817"
+  ],
+  [
+   "Cita prèvia",
+   "https://citaoficines.paeria.cat/"
+  ],
+  [
+   "Atenció ciutadana",
+   "https://www.paeria.cat/ca/ajuntament/atencio-ciutadana/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/paerialleida"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/ajuntamentdelleida"
+  ],
+  [
+   "Telegram",
+   "https://t.me/joinchat/AAAAAFkPBMydYRJE_vzeZA"
+  ],
+  [
+   "Instagram",
+   "https://www.instagram.com/ajuntamentdelleida/"
+  ],
+  [
+   "Youtube",
+   "https://www.youtube.com/ajuntamentdelleida"
+  ],
+  [
+   "Inici",
+   "https://www.paeria.cat/ca"
+  ],
+  [
+   "Actualitat",
+   "https://www.paeria.cat/ca/actualitat"
+  ],
+  [
+   "Jump to content",
+   "https://www.paeria.cat/ca/actualitat/noticies#container-content"
+  ],
+  [
+   "Alcalde Larrosa: \"Treballem perquè les empreses que vinguin a Lleida tinguin el màxim valor afegit i reforcin el nostre ecosistema universitari”",
+   "https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-treballem-perque-les-empreses-que-vinguin-a-lleida-tinguin-el-maxim-valor-afegit-i-reforcin-el-nostre-ecosistema-universitari201d"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-treballem-perque-les-empreses-que-vinguin-a-lleida-tinguin-el-maxim-valor-afegit-i-reforcin-el-nostre-ecosistema-universitari201d"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-treballem-perque-les-empreses-que-vinguin-a-lleida-tinguin-el-maxim-valor-afegit-i-reforcin-el-nostre-ecosistema-universitari201d"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-treballem-perque-les-empreses-que-vinguin-a-lleida-tinguin-el-maxim-valor-afegit-i-reforcin-el-nostre-ecosistema-universitari201d"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Alcalde%20Larrosa:%20%22Treballem%20perqu%C3%A8%20les%20empreses%20que%20vinguin%20a%20Lleida%20tinguin%20el%20m%C3%A0xim%20valor%20afegit%20i%20reforcin%20el%20nostre%20ecosistema%20universitari%E2%80%9D&body=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-treballem-perque-les-empreses-que-vinguin-a-lleida-tinguin-el-maxim-valor-afegit-i-reforcin-el-nostre-ecosistema-universitari201d"
+  ],
+  [
+   "La Paeria avança en l'impuls a sis grans projectes estratègics de ciutat",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-avanc-en-limpuls-a-sis-grans-projectes-estrategics-de-ciutat"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-avanc-en-limpuls-a-sis-grans-projectes-estrategics-de-ciutat"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-avanc-en-limpuls-a-sis-grans-projectes-estrategics-de-ciutat"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-avanc-en-limpuls-a-sis-grans-projectes-estrategics-de-ciutat"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20avan%C3%A7a%20en%20l%27impuls%20a%20sis%20grans%20projectes%20estrat%C3%A8gics%20de%20ciutat&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-avanc-en-limpuls-a-sis-grans-projectes-estrategics-de-ciutat"
+  ],
+  [
+   "38 persones participants en els programes de formació i experiència laboral del projecte Treball als Barris reben el seu certificat al Saló de Plens de la Paeria",
+   "https://www.paeria.cat/ca/actualitat/noticies/38-persones-completen-els-programes-de-formacio-i-ocupacio-de-l2019imo-amb-actuacions-de-millora-en-equipaments-i-espais-publics-de-lleida"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/38-persones-completen-els-programes-de-formacio-i-ocupacio-de-l2019imo-amb-actuacions-de-millora-en-equipaments-i-espais-publics-de-lleida"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/38-persones-completen-els-programes-de-formacio-i-ocupacio-de-l2019imo-amb-actuacions-de-millora-en-equipaments-i-espais-publics-de-lleida"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/38-persones-completen-els-programes-de-formacio-i-ocupacio-de-l2019imo-amb-actuacions-de-millora-en-equipaments-i-espais-publics-de-lleida"
+  ],
+  [
+   "Email",
+   "mailto:?subject=38%20persones%20participants%20en%20els%20programes%20de%20formaci%C3%B3%20i%20experi%C3%A8ncia%20laboral%20del%20projecte%20Treball%20als%20Barris%20reben%20el%20seu%20certificat%20al%20Sal%C3%B3%20de%20Plens%20de%20la%20Paeria&body=https://www.paeria.cat/ca/actualitat/noticies/38-persones-completen-els-programes-de-formacio-i-ocupacio-de-l2019imo-amb-actuacions-de-millora-en-equipaments-i-espais-publics-de-lleida"
+  ],
+  [
+   "La Paeria amplia les bonificacions en habitatge i congela tots els impostos i taxes",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-amplia-les-bonificacions-en-habitatge-i-congela-tots-els-impostos-i-taxes"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-amplia-les-bonificacions-en-habitatge-i-congela-tots-els-impostos-i-taxes"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-amplia-les-bonificacions-en-habitatge-i-congela-tots-els-impostos-i-taxes"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-amplia-les-bonificacions-en-habitatge-i-congela-tots-els-impostos-i-taxes"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20amplia%20les%20bonificacions%20en%20habitatge%20i%20congela%20tots%20els%20impostos%20i%20taxes&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-amplia-les-bonificacions-en-habitatge-i-congela-tots-els-impostos-i-taxes"
+  ],
+  [
+   "Apuntes para una ficción consentida, film inaugural del Som Cinema",
+   "https://www.paeria.cat/ca/actualitat/noticies/apuntes-para-una-ficcion-consentida-film-inaugural-del-som-cinema"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/apuntes-para-una-ficcion-consentida-film-inaugural-del-som-cinema"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/apuntes-para-una-ficcion-consentida-film-inaugural-del-som-cinema"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/apuntes-para-una-ficcion-consentida-film-inaugural-del-som-cinema"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Apuntes%20para%20una%20ficci%C3%B3n%20consentida,%20film%20inaugural%20del%20Som%20Cinema&body=https://www.paeria.cat/ca/actualitat/noticies/apuntes-para-una-ficcion-consentida-film-inaugural-del-som-cinema"
+  ],
+  [
+   "La poesia de postguerra centra una vetllada sobre memòria democràtica al Cafè de Teatre",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-poesia-de-postguerra-centra-una-vetllada-sobre-memoria-democratica-al-cafe-de-teatre"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-poesia-de-postguerra-centra-una-vetllada-sobre-memoria-democratica-al-cafe-de-teatre"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-poesia-de-postguerra-centra-una-vetllada-sobre-memoria-democratica-al-cafe-de-teatre"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-poesia-de-postguerra-centra-una-vetllada-sobre-memoria-democratica-al-cafe-de-teatre"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20poesia%20de%20postguerra%20centra%20una%20vetllada%20sobre%20mem%C3%B2ria%20democr%C3%A0tica%20al%20Caf%C3%A8%20de%20Teatre&body=https://www.paeria.cat/ca/actualitat/noticies/la-poesia-de-postguerra-centra-una-vetllada-sobre-memoria-democratica-al-cafe-de-teatre"
+  ],
+  [
+   "Lleida reforça l’aliança entre formació i empresa per anticipar els perfils professionals que necessita la ciutat",
+   "https://www.paeria.cat/ca/actualitat/noticies/lleida-reforca-l2019alianca-entre-formacio-i-empresa-per-anticipar-els-perfils-professionals-que-necessita-la-ciutat"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/lleida-reforca-l2019alianca-entre-formacio-i-empresa-per-anticipar-els-perfils-professionals-que-necessita-la-ciutat"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/lleida-reforca-l2019alianca-entre-formacio-i-empresa-per-anticipar-els-perfils-professionals-que-necessita-la-ciutat"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/lleida-reforca-l2019alianca-entre-formacio-i-empresa-per-anticipar-els-perfils-professionals-que-necessita-la-ciutat"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Lleida%20refor%C3%A7a%20l%E2%80%99alian%C3%A7a%20entre%20formaci%C3%B3%20i%20empresa%20per%20anticipar%20els%20perfils%20professionals%20que%20necessita%20la%20ciutat&body=https://www.paeria.cat/ca/actualitat/noticies/lleida-reforca-l2019alianca-entre-formacio-i-empresa-per-anticipar-els-perfils-professionals-que-necessita-la-ciutat"
+  ],
+  [
+   "Optimitzar la producció sense comprometre el planeta: l’Agrobiotech Innovation Forum 2026 afronta aquest gran repte amb més de 200 empreses participants",
+   "https://www.paeria.cat/ca/actualitat/noticies/optimitzar-la-produccio-sense-comprometre-el-planeta-l2019agrobiotech-innovation-forum-2026-afronta-aquest-gran-repte-amb-mes-de-200-empreses-participants"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/optimitzar-la-produccio-sense-comprometre-el-planeta-l2019agrobiotech-innovation-forum-2026-afronta-aquest-gran-repte-amb-mes-de-200-empreses-participants"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/optimitzar-la-produccio-sense-comprometre-el-planeta-l2019agrobiotech-innovation-forum-2026-afronta-aquest-gran-repte-amb-mes-de-200-empreses-participants"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/optimitzar-la-produccio-sense-comprometre-el-planeta-l2019agrobiotech-innovation-forum-2026-afronta-aquest-gran-repte-amb-mes-de-200-empreses-participants"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Optimitzar%20la%20producci%C3%B3%20sense%20comprometre%20el%20planeta:%20l%E2%80%99Agrobiotech%20Innovation%20Forum%202026%20afronta%20aquest%20gran%20repte%20amb%20m%C3%A9s%20de%20200%20empreses%20participants&body=https://www.paeria.cat/ca/actualitat/noticies/optimitzar-la-produccio-sense-comprometre-el-planeta-l2019agrobiotech-innovation-forum-2026-afronta-aquest-gran-repte-amb-mes-de-200-empreses-participants"
+  ],
+  [
+   "La nova empresa del servei de neteja i recollida de residus comença a rebre els nous contenidors i ja ha contractat 51 persones més",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-nova-empresa-del-servei-de-neteja-i-recollida-de-residus-comenca-a-rebre-els-nous-contenidors-i-ja-ha-contractat-51-persones-mes"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-nova-empresa-del-servei-de-neteja-i-recollida-de-residus-comenca-a-rebre-els-nous-contenidors-i-ja-ha-contractat-51-persones-mes"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-nova-empresa-del-servei-de-neteja-i-recollida-de-residus-comenca-a-rebre-els-nous-contenidors-i-ja-ha-contractat-51-persones-mes"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-nova-empresa-del-servei-de-neteja-i-recollida-de-residus-comenca-a-rebre-els-nous-contenidors-i-ja-ha-contractat-51-persones-mes"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20nova%20empresa%20del%20servei%20de%20neteja%20i%20recollida%20de%20residus%20comen%C3%A7a%20a%20rebre%20els%20nous%20contenidors%20i%20ja%20ha%20contractat%2051%20persones%20m%C3%A9s&body=https://www.paeria.cat/ca/actualitat/noticies/la-nova-empresa-del-servei-de-neteja-i-recollida-de-residus-comenca-a-rebre-els-nous-contenidors-i-ja-ha-contractat-51-persones-mes"
+  ],
+  [
+   "La Paeria obre demà la segona oficina d’atenció ciutadana de barri, al Secà de Sant Pere",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-obre-dema-la-segona-oficina-d2019atencio-ciutadana-de-barri-al-seca-de-sant-pere"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-obre-dema-la-segona-oficina-d2019atencio-ciutadana-de-barri-al-seca-de-sant-pere"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-obre-dema-la-segona-oficina-d2019atencio-ciutadana-de-barri-al-seca-de-sant-pere"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-obre-dema-la-segona-oficina-d2019atencio-ciutadana-de-barri-al-seca-de-sant-pere"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20obre%20dem%C3%A0%20la%20segona%20oficina%20d%E2%80%99atenci%C3%B3%20ciutadana%20de%20barri,%20al%20Sec%C3%A0%20de%20Sant%20Pere&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-obre-dema-la-segona-oficina-d2019atencio-ciutadana-de-barri-al-seca-de-sant-pere"
+  ],
+  [
+   "La XIV Festa del Vi s’estrena al Palau de Vidre amb més de 150 referències de vi i gastronomia de 19 cellers i 10 restaurants i establiments",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-xiv-festa-del-vi-s2019estrena-al-palau-de-vidre-amb-mes-de-150-referencies-de-vi-i-gastronomia-de-19-cellers-i-10-restaurants-i-establiments"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-xiv-festa-del-vi-s2019estrena-al-palau-de-vidre-amb-mes-de-150-referencies-de-vi-i-gastronomia-de-19-cellers-i-10-restaurants-i-establiments"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-xiv-festa-del-vi-s2019estrena-al-palau-de-vidre-amb-mes-de-150-referencies-de-vi-i-gastronomia-de-19-cellers-i-10-restaurants-i-establiments"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-xiv-festa-del-vi-s2019estrena-al-palau-de-vidre-amb-mes-de-150-referencies-de-vi-i-gastronomia-de-19-cellers-i-10-restaurants-i-establiments"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20XIV%20Festa%20del%20Vi%C2%A0s%E2%80%99estrena%20al%20Palau%20de%20Vidre%20amb%20m%C3%A9s%20de%20150%20refer%C3%A8ncies%20de%20vi%20i%20gastronomia%20de%2019%20cellers%20i%2010%20restaurants%20i%20establiments&body=https://www.paeria.cat/ca/actualitat/noticies/la-xiv-festa-del-vi-s2019estrena-al-palau-de-vidre-amb-mes-de-150-referencies-de-vi-i-gastronomia-de-19-cellers-i-10-restaurants-i-establiments"
+  ],
+  [
+   "3 persones detingudes i 281 identificades a Lleida en el marc d'un nou operatiu Kanpai",
+   "https://www.paeria.cat/ca/actualitat/noticies/3-persones-detingudes-i-281-identificades-a-lleida-en-el-marc-dun-nou-operatiu-kanpai"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/3-persones-detingudes-i-281-identificades-a-lleida-en-el-marc-dun-nou-operatiu-kanpai"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/3-persones-detingudes-i-281-identificades-a-lleida-en-el-marc-dun-nou-operatiu-kanpai"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/3-persones-detingudes-i-281-identificades-a-lleida-en-el-marc-dun-nou-operatiu-kanpai"
+  ],
+  [
+   "Email",
+   "mailto:?subject=3%20persones%20detingudes%20i%20281%20identificades%20a%20Lleida%20en%20el%20marc%20d%27un%20nou%20operatiu%20Kanpai&body=https://www.paeria.cat/ca/actualitat/noticies/3-persones-detingudes-i-281-identificades-a-lleida-en-el-marc-dun-nou-operatiu-kanpai"
+  ],
+  [
+   "La Paeria inicia les obres de millora de la xarxa d'aigua potable i del clavegueram al carrer de la Campinya, als Mangraners",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-inicia-dilluns-les-obres-de-millora-de-la-xarxa-daigua-potable-i-del-clavegueram-al-carrer-de-la-campinya-als-mangraners"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-inicia-dilluns-les-obres-de-millora-de-la-xarxa-daigua-potable-i-del-clavegueram-al-carrer-de-la-campinya-als-mangraners"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-inicia-dilluns-les-obres-de-millora-de-la-xarxa-daigua-potable-i-del-clavegueram-al-carrer-de-la-campinya-als-mangraners"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-inicia-dilluns-les-obres-de-millora-de-la-xarxa-daigua-potable-i-del-clavegueram-al-carrer-de-la-campinya-als-mangraners"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20inicia%20les%20obres%20de%20millora%20de%20la%20xarxa%20d%27aigua%20potable%20i%20del%20clavegueram%20al%20carrer%20de%20la%20Campinya,%20als%20Mangraners&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-inicia-dilluns-les-obres-de-millora-de-la-xarxa-daigua-potable-i-del-clavegueram-al-carrer-de-la-campinya-als-mangraners"
+  ],
+  [
+   "Comunicat de la Paeria sobre l’expedient de reparcel·lació del SUR-2 (Ciutat Jardí) aprovat el 18 de juliol de 2017",
+   "https://www.paeria.cat/ca/actualitat/noticies/comunicat-de-la-paeria-sobre-l2019expedient-de-reparcel-lacio-del-sur-2-ciutat-jardi-aprovat-el-18-de-juliol-de-2017"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/comunicat-de-la-paeria-sobre-l2019expedient-de-reparcel-lacio-del-sur-2-ciutat-jardi-aprovat-el-18-de-juliol-de-2017"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/comunicat-de-la-paeria-sobre-l2019expedient-de-reparcel-lacio-del-sur-2-ciutat-jardi-aprovat-el-18-de-juliol-de-2017"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/comunicat-de-la-paeria-sobre-l2019expedient-de-reparcel-lacio-del-sur-2-ciutat-jardi-aprovat-el-18-de-juliol-de-2017"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Comunicat%20de%20la%20Paeria%20sobre%20l%E2%80%99expedient%20de%20reparcel%C2%B7laci%C3%B3%20del%20SUR-2%20(Ciutat%20Jard%C3%AD)%20aprovat%20el%2018%20de%20juliol%20de%202017&body=https://www.paeria.cat/ca/actualitat/noticies/comunicat-de-la-paeria-sobre-l2019expedient-de-reparcel-lacio-del-sur-2-ciutat-jardi-aprovat-el-18-de-juliol-de-2017"
+  ],
+  [
+   "Caminar és fer salut programa vuit noves sortides que vetllen pel benestar físic i emocional",
+   "https://www.paeria.cat/ca/actualitat/noticies/caminar-es-fer-salut-programa-vuit-noves-sortides-que-vetllen-pel-benestar-fisic-i-emocional"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/caminar-es-fer-salut-programa-vuit-noves-sortides-que-vetllen-pel-benestar-fisic-i-emocional"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/caminar-es-fer-salut-programa-vuit-noves-sortides-que-vetllen-pel-benestar-fisic-i-emocional"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/caminar-es-fer-salut-programa-vuit-noves-sortides-que-vetllen-pel-benestar-fisic-i-emocional"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Caminar%20%C3%A9s%20fer%20salut%20programa%20vuit%20noves%20sortides%20que%20vetllen%20pel%20benestar%20f%C3%ADsic%20i%20emocional&body=https://www.paeria.cat/ca/actualitat/noticies/caminar-es-fer-salut-programa-vuit-noves-sortides-que-vetllen-pel-benestar-fisic-i-emocional"
+  ],
+  [
+   "Larrosa destaca la candidatura de Lleida a Capital Europea del Voluntariat feta des de la \"base\" i amb les entitats",
+   "https://www.paeria.cat/ca/actualitat/noticies/larrosa-destaca-la-candidatura-de-lleida-a-capital-europea-del-voluntariat-feta-des-de-la-base-i-amb-les-entitats"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/larrosa-destaca-la-candidatura-de-lleida-a-capital-europea-del-voluntariat-feta-des-de-la-base-i-amb-les-entitats"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/larrosa-destaca-la-candidatura-de-lleida-a-capital-europea-del-voluntariat-feta-des-de-la-base-i-amb-les-entitats"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/larrosa-destaca-la-candidatura-de-lleida-a-capital-europea-del-voluntariat-feta-des-de-la-base-i-amb-les-entitats"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Larrosa%20destaca%20la%20candidatura%20de%20Lleida%20a%20Capital%20Europea%20del%20Voluntariat%20feta%20des%20de%20la%20%22base%22%20i%20amb%20les%20entitats&body=https://www.paeria.cat/ca/actualitat/noticies/larrosa-destaca-la-candidatura-de-lleida-a-capital-europea-del-voluntariat-feta-des-de-la-base-i-amb-les-entitats"
+  ],
+  [
+   "El MORERA inaugura l’exposició \"Club 49. La modernitat vigilada (1949-1970)\"",
+   "https://www.paeria.cat/ca/actualitat/noticies/el-morera-inaugura-l2019exposicio-club-49-la-modernitat-vigilada-1949-1970"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/el-morera-inaugura-l2019exposicio-club-49-la-modernitat-vigilada-1949-1970"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/el-morera-inaugura-l2019exposicio-club-49-la-modernitat-vigilada-1949-1970"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/el-morera-inaugura-l2019exposicio-club-49-la-modernitat-vigilada-1949-1970"
+  ],
+  [
+   "Email",
+   "mailto:?subject=El%20MORERA%20inaugura%20l%E2%80%99exposici%C3%B3%20%22Club%2049.%20La%20modernitat%20vigilada%20(1949-1970)%22&body=https://www.paeria.cat/ca/actualitat/noticies/el-morera-inaugura-l2019exposicio-club-49-la-modernitat-vigilada-1949-1970"
+  ],
+  [
+   "Primera fira de música emergent i solidària amb Gàmbia els dies 13 i 14 de novembre",
+   "https://www.paeria.cat/ca/actualitat/noticies/primera-fira-de-musica-emergent-i-solidaria-amb-gambia-els-dies-13-i-14-de-novembre"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/primera-fira-de-musica-emergent-i-solidaria-amb-gambia-els-dies-13-i-14-de-novembre"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/primera-fira-de-musica-emergent-i-solidaria-amb-gambia-els-dies-13-i-14-de-novembre"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/primera-fira-de-musica-emergent-i-solidaria-amb-gambia-els-dies-13-i-14-de-novembre"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Primera%20fira%20de%20m%C3%BAsica%20emergent%20i%20solid%C3%A0ria%20amb%20G%C3%A0mbia%20els%20dies%2013%20i%2014%20de%20novembre&body=https://www.paeria.cat/ca/actualitat/noticies/primera-fira-de-musica-emergent-i-solidaria-amb-gambia-els-dies-13-i-14-de-novembre"
+  ],
+  [
+   "La Paeria homenatja Lluís Companys en el 86è aniversari del seu afusellament",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-homenatja-lluis-companys-en-el-86e-aniversari-del-seu-afusellament"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-homenatja-lluis-companys-en-el-86e-aniversari-del-seu-afusellament"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-homenatja-lluis-companys-en-el-86e-aniversari-del-seu-afusellament"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-homenatja-lluis-companys-en-el-86e-aniversari-del-seu-afusellament"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20homenatja%20Llu%C3%ADs%20Companys%20en%20el%2086%C3%A8%20aniversari%20del%20seu%20afusellament&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-homenatja-lluis-companys-en-el-86e-aniversari-del-seu-afusellament"
+  ],
+  [
+   "Oberta la nova convocatòria d’ajuts per a l’impuls d’activitat econòmica al Centre Històric",
+   "https://www.paeria.cat/ca/actualitat/noticies/oberta-la-nova-convocatoria-d2019ajuts-per-a-l2019impuls-d2019activitat-economica-al-centre-historic"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/oberta-la-nova-convocatoria-d2019ajuts-per-a-l2019impuls-d2019activitat-economica-al-centre-historic"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/oberta-la-nova-convocatoria-d2019ajuts-per-a-l2019impuls-d2019activitat-economica-al-centre-historic"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/oberta-la-nova-convocatoria-d2019ajuts-per-a-l2019impuls-d2019activitat-economica-al-centre-historic"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Oberta%20la%20nova%20convocat%C3%B2ria%20d%E2%80%99ajuts%20per%20a%20l%E2%80%99impuls%20d%E2%80%99activitat%20econ%C3%B2mica%20al%20Centre%20Hist%C3%B2ric&body=https://www.paeria.cat/ca/actualitat/noticies/oberta-la-nova-convocatoria-d2019ajuts-per-a-l2019impuls-d2019activitat-economica-al-centre-historic"
+  ],
+  [
+   "L’alcalde Larrosa presenta a Brussel·les la candidatura de Lleida a Capital Europea del Voluntariat",
+   "https://www.paeria.cat/ca/actualitat/noticies/l2019alcalde-larrosa-presenta-a-brussel-les-la-candidatura-de-lleida-a-capital-europea-del-voluntariat"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/l2019alcalde-larrosa-presenta-a-brussel-les-la-candidatura-de-lleida-a-capital-europea-del-voluntariat"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/l2019alcalde-larrosa-presenta-a-brussel-les-la-candidatura-de-lleida-a-capital-europea-del-voluntariat"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/l2019alcalde-larrosa-presenta-a-brussel-les-la-candidatura-de-lleida-a-capital-europea-del-voluntariat"
+  ],
+  [
+   "Email",
+   "mailto:?subject=L%E2%80%99alcalde%20Larrosa%20presenta%20a%20Brussel%C2%B7les%20la%20candidatura%20de%20Lleida%20a%20Capital%20Europea%20del%20Voluntariat&body=https://www.paeria.cat/ca/actualitat/noticies/l2019alcalde-larrosa-presenta-a-brussel-les-la-candidatura-de-lleida-a-capital-europea-del-voluntariat"
+  ],
+  [
+   "Ricard Viñes, en una exposició de la Fundació Louis Vuitton en el marc de l’Any Viñes",
+   "https://www.paeria.cat/ca/actualitat/noticies/ricard-vines-en-una-exposicio-de-la-fundacio-louis-vuitton-en-el-marc-de-l2019any-vines"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/ricard-vines-en-una-exposicio-de-la-fundacio-louis-vuitton-en-el-marc-de-l2019any-vines"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/ricard-vines-en-una-exposicio-de-la-fundacio-louis-vuitton-en-el-marc-de-l2019any-vines"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/ricard-vines-en-una-exposicio-de-la-fundacio-louis-vuitton-en-el-marc-de-l2019any-vines"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Ricard%20Vi%C3%B1es,%20en%20una%20exposici%C3%B3%20de%20la%20Fundaci%C3%B3%20Louis%20Vuitton%20en%20el%20marc%20de%20l%E2%80%99Any%20Vi%C3%B1es&body=https://www.paeria.cat/ca/actualitat/noticies/ricard-vines-en-una-exposicio-de-la-fundacio-louis-vuitton-en-el-marc-de-l2019any-vines"
+  ],
+  [
+   "El govern de la Paeria proposa ampliar les bonificacions per promoure l'habitatge assequible",
+   "https://www.paeria.cat/ca/actualitat/noticies/el-govern-de-la-paeria-proposa-ampliar-les-bonificacions-per-promoure-lhabitatge-assequible-1"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/el-govern-de-la-paeria-proposa-ampliar-les-bonificacions-per-promoure-lhabitatge-assequible-1"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/el-govern-de-la-paeria-proposa-ampliar-les-bonificacions-per-promoure-lhabitatge-assequible-1"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/el-govern-de-la-paeria-proposa-ampliar-les-bonificacions-per-promoure-lhabitatge-assequible-1"
+  ],
+  [
+   "Email",
+   "mailto:?subject=El%20govern%20de%20la%20Paeria%20proposa%20ampliar%20les%20bonificacions%20per%20promoure%20l%27habitatge%20assequible&body=https://www.paeria.cat/ca/actualitat/noticies/el-govern-de-la-paeria-proposa-ampliar-les-bonificacions-per-promoure-lhabitatge-assequible-1"
+  ],
+  [
+   "La Paeria recull les aportacions de la ciutadania per al nou Pla Local d’Habitatge",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-recull-les-aportacions-de-la-ciutadania-per-al-nou-pla-local-d2019habitatge"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-recull-les-aportacions-de-la-ciutadania-per-al-nou-pla-local-d2019habitatge"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-recull-les-aportacions-de-la-ciutadania-per-al-nou-pla-local-d2019habitatge"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-recull-les-aportacions-de-la-ciutadania-per-al-nou-pla-local-d2019habitatge"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20recull%20les%20aportacions%20de%20la%20ciutadania%20per%20al%20nou%20Pla%20Local%20d%E2%80%99Habitatge&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-recull-les-aportacions-de-la-ciutadania-per-al-nou-pla-local-d2019habitatge"
+  ],
+  [
+   "Talls de trànsit als accessos de la LL-11, la C-13 i als polígons dels Frares i del Segre",
+   "https://www.paeria.cat/ca/actualitat/noticies/talls-de-transit-als-accessos-de-la-ll-11-la-c-13-i-als-poligons-dels-frares-i-del-segre"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/talls-de-transit-als-accessos-de-la-ll-11-la-c-13-i-als-poligons-dels-frares-i-del-segre"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/talls-de-transit-als-accessos-de-la-ll-11-la-c-13-i-als-poligons-dels-frares-i-del-segre"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/talls-de-transit-als-accessos-de-la-ll-11-la-c-13-i-als-poligons-dels-frares-i-del-segre"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Talls%20de%20tr%C3%A0nsit%20als%20accessos%20de%20la%20LL-11,%20la%20C-13%20i%20als%20pol%C3%ADgons%20dels%20Frares%20i%20del%20Segre&body=https://www.paeria.cat/ca/actualitat/noticies/talls-de-transit-als-accessos-de-la-ll-11-la-c-13-i-als-poligons-dels-frares-i-del-segre"
+  ],
+  [
+   "L’EMAU intensifica l’adquisició de prop de 50 habitatges a la Mariola per avançar en la transformació del barri",
+   "https://www.paeria.cat/ca/actualitat/noticies/l2019emau-intensifica-l2019adquisicio-de-prop-de-50-habitatges-a-la-mariola-per-avancar-en-la-transformacio-del-barri"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/l2019emau-intensifica-l2019adquisicio-de-prop-de-50-habitatges-a-la-mariola-per-avancar-en-la-transformacio-del-barri"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/l2019emau-intensifica-l2019adquisicio-de-prop-de-50-habitatges-a-la-mariola-per-avancar-en-la-transformacio-del-barri"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/l2019emau-intensifica-l2019adquisicio-de-prop-de-50-habitatges-a-la-mariola-per-avancar-en-la-transformacio-del-barri"
+  ],
+  [
+   "Email",
+   "mailto:?subject=L%E2%80%99EMAU%20intensifica%20l%E2%80%99adquisici%C3%B3%20de%20prop%20de%2050%20habitatges%20a%20la%20Mariola%20per%20avan%C3%A7ar%20en%20la%20transformaci%C3%B3%20del%20barri&body=https://www.paeria.cat/ca/actualitat/noticies/l2019emau-intensifica-l2019adquisicio-de-prop-de-50-habitatges-a-la-mariola-per-avancar-en-la-transformacio-del-barri"
+  ],
+  [
+   "Sucs opta a la construcció de 28 habitatges de lloguer assequible al carrer Mestre",
+   "https://www.paeria.cat/ca/actualitat/noticies/sucs-opta-a-la-construccio-de-28-habitatges-de-lloguer-assequible-al-carrer-mestre"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/sucs-opta-a-la-construccio-de-28-habitatges-de-lloguer-assequible-al-carrer-mestre"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/sucs-opta-a-la-construccio-de-28-habitatges-de-lloguer-assequible-al-carrer-mestre"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/sucs-opta-a-la-construccio-de-28-habitatges-de-lloguer-assequible-al-carrer-mestre"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Sucs%20opta%20a%20la%20construcci%C3%B3%20de%2028%20habitatges%20de%20lloguer%20assequible%20al%20carrer%20Mestre&body=https://www.paeria.cat/ca/actualitat/noticies/sucs-opta-a-la-construccio-de-28-habitatges-de-lloguer-assequible-al-carrer-mestre"
+  ],
+  [
+   "El talent jove de Lleida pren la plaça de Blas Infante amb 12 hores de música, dansa i creativitat",
+   "https://www.paeria.cat/ca/actualitat/noticies/el-talent-jove-de-lleida-pren-la-placa-de-blas-infante-amb-12-hores-de-musica-dansa-i-creativitat"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/el-talent-jove-de-lleida-pren-la-placa-de-blas-infante-amb-12-hores-de-musica-dansa-i-creativitat"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/el-talent-jove-de-lleida-pren-la-placa-de-blas-infante-amb-12-hores-de-musica-dansa-i-creativitat"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/el-talent-jove-de-lleida-pren-la-placa-de-blas-infante-amb-12-hores-de-musica-dansa-i-creativitat"
+  ],
+  [
+   "Email",
+   "mailto:?subject=El%20talent%20jove%20de%20Lleida%20pren%20la%20pla%C3%A7a%20de%20Blas%20Infante%20amb%2012%20hores%20de%20m%C3%BAsica,%20dansa%20i%20creativitat&body=https://www.paeria.cat/ca/actualitat/noticies/el-talent-jove-de-lleida-pren-la-placa-de-blas-infante-amb-12-hores-de-musica-dansa-i-creativitat"
+  ],
+  [
+   "La Paeria reparteix 10.000 punts de llibre per reivindicar el llegat de 24 dones que han contribuït a construir Lleida",
+   "https://www.paeria.cat/ca/actualitat/noticies/la-paeria-reparteix-10-000-punts-de-llibre-per-reivindicar-el-llegat-de-24-dones-que-han-contribuit-a-construir-lleida"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-reparteix-10-000-punts-de-llibre-per-reivindicar-el-llegat-de-24-dones-que-han-contribuit-a-construir-lleida"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-reparteix-10-000-punts-de-llibre-per-reivindicar-el-llegat-de-24-dones-que-han-contribuit-a-construir-lleida"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-reparteix-10-000-punts-de-llibre-per-reivindicar-el-llegat-de-24-dones-que-han-contribuit-a-construir-lleida"
+  ],
+  [
+   "Email",
+   "mailto:?subject=La%20Paeria%20reparteix%2010.000%20punts%20de%20llibre%20per%20reivindicar%20el%20llegat%20de%2024%20dones%20que%20han%20contribu%C3%AFt%20a%20construir%20Lleida&body=https://www.paeria.cat/ca/actualitat/noticies/la-paeria-reparteix-10-000-punts-de-llibre-per-reivindicar-el-llegat-de-24-dones-que-han-contribuit-a-construir-lleida"
+  ],
+  [
+   "Alcalde Larrosa: \"Invertir en escoles bressol és invertir en igualtat d’oportunitats, en benestar i en el futur de la ciutat\"",
+   "https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-invertir-en-escoles-bressol-es-invertir-en-igualtat-d2019oportunitats-en-benestar-i-en-el-futur-de-la-ciutat"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-invertir-en-escoles-bressol-es-invertir-en-igualtat-d2019oportunitats-en-benestar-i-en-el-futur-de-la-ciutat"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/share?url=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-invertir-en-escoles-bressol-es-invertir-en-igualtat-d2019oportunitats-en-benestar-i-en-el-futur-de-la-ciutat"
+  ],
+  [
+   "Whatsapp",
+   "https://api.whatsapp.com/send?text=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-invertir-en-escoles-bressol-es-invertir-en-igualtat-d2019oportunitats-en-benestar-i-en-el-futur-de-la-ciutat"
+  ],
+  [
+   "Email",
+   "mailto:?subject=Alcalde%20Larrosa:%20%22Invertir%20en%20escoles%20bressol%20%C3%A9s%20invertir%20en%20igualtat%20d%E2%80%99oportunitats,%20en%20benestar%20i%20en%20el%20futur%20de%20la%20ciutat%22&body=https://www.paeria.cat/ca/actualitat/noticies/alcalde-larrosa-invertir-en-escoles-bressol-es-invertir-en-igualtat-d2019oportunitats-en-benestar-i-en-el-futur-de-la-ciutat"
+  ],
+  [
+   "2",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=30"
+  ],
+  [
+   "3",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=60"
+  ],
+  [
+   "4",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=90"
+  ],
+  [
+   "5",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=120"
+  ],
+  [
+   "6",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=150"
+  ],
+  [
+   "7",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=180"
+  ],
+  [
+   "1359",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=40740"
+  ],
+  [
+   "30 elements següents",
+   "https://www.paeria.cat/ca/actualitat/noticies?b_start:int=30"
+  ],
+  [
+   "Webs municipals",
+   "https://www.paeria.cat/ca/ciutat/directori-de-webs/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Plànols",
+   "https://www.paeria.cat/planols"
+  ],
+  [
+   "Bústia ciutadana",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=1817"
+  ],
+  [
+   "Cita prèvia",
+   "https://citaoficines.paeria.cat/"
+  ],
+  [
+   "Atenció ciutadana",
+   "https://www.paeria.cat/ca/ajuntament/atencio-ciutadana/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Zona de Baixes Emissions de Lleida",
+   "https://www.paeria.cat/ca/serveis/zona-de-baixes-emissions-de-lleida"
+  ],
+  [
+   "WhatsApp de l'Ajuntament de Lleida",
+   "https://www.paeria.cat/ca/serveis/apps-aplicacions-mobils/whatsapp-de-lajuntament-de-lleida/com-fer-lo-anar"
+  ],
+  [
+   "Xatbot Padró",
+   "https://www.paeria.cat/ca/serveis/padro/"
+  ],
+  [
+   "1000 Ulls",
+   "https://www.paeria.cat/ca/serveis/milulls"
+  ],
+  [
+   "Pla d'ús del català a Lleida",
+   "https://www.paeria.cat/ca/portada/banners/pla-dus-del-catala-a-lleida/@@display-file/file"
+  ],
+  [
+   "Plànol Metrominut a Lleida",
+   "https://www.paeria.cat/ca/portada/banners/planol-metrominut-a-lleida/@@display-file/file"
+  ],
+  [
+   "Canal de comunicació d'informants",
+   "https://www.paeria.cat/ca/ajuntament/informants"
+  ],
+  [
+   "Servei gratuït de recollida de voluminosos",
+   "https://urbanisme.paeria.cat/sostenibilitat/residus-i-neteja-viaria/que-pots-fer-amb/recollida-voluminosos"
+  ],
+  [
+   "Ruta: Joan Oró i Lleida",
+   "https://www.paeria.cat/joanoro"
+  ],
+  [
+   "Ofertes de treball públic",
+   "https://paeria.convoca.online/index.html?type=0"
+  ],
+  [
+   "OAC360 La Paeria - Podem ajudar-te en la tramitació electrònica",
+   "https://adtende.es/lleida/"
+  ],
+  [
+   "Expedició automàtica de certificats d'empadronament",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?IdTramit=2052"
+  ],
+  [
+   "FACe - Entrada de factures electròniques",
+   "https://face.gob.es/es"
+  ],
+  [
+   "Xarxa d'autobusos de Lleida",
+   "https://www.moventis.es/ca/Marcas/autobusos-de-lleida"
+  ],
+  [
+   "Mapa dels semàfors vermells i radars",
+   "https://planol-de-la-ciutat-paeria.hub.arcgis.com/"
+  ],
+  [
+   "Consulta de fotografies per infraccions",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=1010"
+  ],
+  [
+   "Consulta de dades de rebuts domiciliats",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=453"
+  ],
+  [
+   "IdCat - Identitat Digital",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=545%20"
+  ],
+  [
+   "Dret d'accés a la informació pública",
+   "https://www.paeria.cat/ca/portada/banners/dret-dacces-a-la-informacio-publica/@@display-file/file"
+  ],
+  [
+   "Agrobiotech Forum",
+   "https://agrobiotechforum.com/"
+  ],
+  [
+   "Promoció de la ciutat - convocatòria oberta",
+   "https://www.paeria.cat/ca/portada/banners/promocio-de-la-ciutat-convocatoria-oberta/@@display-file/file"
+  ],
+  [
+   "Som Cinema",
+   "https://www.somcinema.cat/"
+  ],
+  [
+   "Jazztardor 2026",
+   "https://www.jazztardor.cat/"
+  ],
+  [
+   "Nou servei de videoatenció ciutadana",
+   "https://www.paeria.cat/ca/serveis/sempreambtu/videoatencio"
+  ],
+  [
+   "Lleida Natura",
+   "https://lleidanatura.paeria.cat/"
+  ],
+  [
+   "Mai demanem per telèfon ni WhatsApp: targetes de crèdit, dades bancàries ni pagaments",
+   "https://www.paeria.cat/ca/actualitat/noticies/l2019ajuntament-de-lleida-recorda-a-la-ciutadania-que-mai-demana-per-telefon-ni-whatsapp-els-numeros-de-targetes-de-credit-o-dades-bancaries"
+  ],
+  [
+   "On vagis, sempre amb tu",
+   "https://www.paeria.cat/sempreambtu"
+  ],
+  [
+   "Oferta d'ocupació Pública – convoca.online",
+   "https://paeria.convoca.online/"
+  ],
+  [
+   "Ofertes de feina gestionades per l’IMO",
+   "https://imolleida.paeria.cat/ca/persona/ofertes-de-feina-agencia-de-col-locacio/ofertes-de-feina-gestionades-per-l2019imo?set_language=ca"
+  ],
+  [
+   "POUM Lleida 2025",
+   "https://www.paeria.cat/PoumLleida2025"
+  ],
+  [
+   "Fem Coop – Suport a l’emprenedoria en economia social i solidaria",
+   "https://www.paeria.cat/ca/serveis/home/emprenedoria"
+  ],
+  [
+   "Ecoactivitats 2026",
+   "https://urbanisme.paeria.cat/sostenibilitat/formacio-educacio-i-sensibilitzacio-ambiental/ecoactivitats-2026"
+  ],
+  [
+   "Ordenança de civisme i convivència",
+   "https://seu.paeria.cat/normativaMilloradaAnunciPublic/categories/21"
+  ],
+  [
+   "Resident zona blava",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?IdTema=50&IdTramit=2426"
+  ],
+  [
+   "Sole MED",
+   "https://solemed.interreg-euro-med.eu/"
+  ],
+  [
+   "Zona de Baixes Emissions de Lleida",
+   "https://www.paeria.cat/ca/serveis/zona-de-baixes-emissions-de-lleida"
+  ],
+  [
+   "WhatsApp de l'Ajuntament de Lleida",
+   "https://www.paeria.cat/ca/serveis/apps-aplicacions-mobils/whatsapp-de-lajuntament-de-lleida/com-fer-lo-anar"
+  ],
+  [
+   "Xatbot Padró",
+   "https://www.paeria.cat/ca/serveis/padro/"
+  ],
+  [
+   "1000 Ulls",
+   "https://www.paeria.cat/ca/serveis/milulls"
+  ],
+  [
+   "Pla d'ús del català a Lleida",
+   "https://www.paeria.cat/ca/portada/banners/pla-dus-del-catala-a-lleida/@@display-file/file"
+  ],
+  [
+   "Plànol Metrominut a Lleida",
+   "https://www.paeria.cat/ca/portada/banners/planol-metrominut-a-lleida/@@display-file/file"
+  ],
+  [
+   "Canal de comunicació d'informants",
+   "https://www.paeria.cat/ca/ajuntament/informants"
+  ],
+  [
+   "Servei gratuït de recollida de voluminosos",
+   "https://urbanisme.paeria.cat/sostenibilitat/residus-i-neteja-viaria/que-pots-fer-amb/recollida-voluminosos"
+  ],
+  [
+   "Ruta: Joan Oró i Lleida",
+   "https://www.paeria.cat/joanoro"
+  ],
+  [
+   "Ofertes de treball públic",
+   "https://paeria.convoca.online/index.html?type=0"
+  ],
+  [
+   "OAC360 La Paeria - Podem ajudar-te en la tramitació electrònica",
+   "https://adtende.es/lleida/"
+  ],
+  [
+   "Expedició automàtica de certificats d'empadronament",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?IdTramit=2052"
+  ],
+  [
+   "FACe - Entrada de factures electròniques",
+   "https://face.gob.es/es"
+  ],
+  [
+   "Xarxa d'autobusos de Lleida",
+   "https://www.moventis.es/ca/Marcas/autobusos-de-lleida"
+  ],
+  [
+   "Mapa dels semàfors vermells i radars",
+   "https://planol-de-la-ciutat-paeria.hub.arcgis.com/"
+  ],
+  [
+   "Consulta de fotografies per infraccions",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=1010"
+  ],
+  [
+   "Consulta de dades de rebuts domiciliats",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=453"
+  ],
+  [
+   "IdCat - Identitat Digital",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=545%20"
+  ],
+  [
+   "Dret d'accés a la informació pública",
+   "https://www.paeria.cat/ca/portada/banners/dret-dacces-a-la-informacio-publica/@@display-file/file"
+  ],
+  [
+   "Agrobiotech Forum",
+   "https://agrobiotechforum.com/"
+  ],
+  [
+   "Promoció de la ciutat - convocatòria oberta",
+   "https://www.paeria.cat/ca/portada/banners/promocio-de-la-ciutat-convocatoria-oberta/@@display-file/file"
+  ],
+  [
+   "Som Cinema",
+   "https://www.somcinema.cat/"
+  ],
+  [
+   "Jazztardor 2026",
+   "https://www.jazztardor.cat/"
+  ],
+  [
+   "Nou servei de videoatenció ciutadana",
+   "https://www.paeria.cat/ca/serveis/sempreambtu/videoatencio"
+  ],
+  [
+   "Lleida Natura",
+   "https://lleidanatura.paeria.cat/"
+  ],
+  [
+   "Mai demanem per telèfon ni WhatsApp: targetes de crèdit, dades bancàries ni pagaments",
+   "https://www.paeria.cat/ca/actualitat/noticies/l2019ajuntament-de-lleida-recorda-a-la-ciutadania-que-mai-demana-per-telefon-ni-whatsapp-els-numeros-de-targetes-de-credit-o-dades-bancaries"
+  ],
+  [
+   "On vagis, sempre amb tu",
+   "https://www.paeria.cat/sempreambtu"
+  ],
+  [
+   "Oferta d'ocupació Pública – convoca.online",
+   "https://paeria.convoca.online/"
+  ],
+  [
+   "Ofertes de feina gestionades per l’IMO",
+   "https://imolleida.paeria.cat/ca/persona/ofertes-de-feina-agencia-de-col-locacio/ofertes-de-feina-gestionades-per-l2019imo?set_language=ca"
+  ],
+  [
+   "POUM Lleida 2025",
+   "https://www.paeria.cat/PoumLleida2025"
+  ],
+  [
+   "Fem Coop – Suport a l’emprenedoria en economia social i solidaria",
+   "https://www.paeria.cat/ca/serveis/home/emprenedoria"
+  ],
+  [
+   "Ecoactivitats 2026",
+   "https://urbanisme.paeria.cat/sostenibilitat/formacio-educacio-i-sensibilitzacio-ambiental/ecoactivitats-2026"
+  ],
+  [
+   "Ordenança de civisme i convivència",
+   "https://seu.paeria.cat/normativaMilloradaAnunciPublic/categories/21"
+  ],
+  [
+   "Resident zona blava",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?IdTema=50&IdTramit=2426"
+  ],
+  [
+   "Sole MED",
+   "https://solemed.interreg-euro-med.eu/"
+  ],
+  [
+   "Zona de Baixes Emissions de Lleida",
+   "https://www.paeria.cat/ca/serveis/zona-de-baixes-emissions-de-lleida"
+  ],
+  [
+   "Twitter",
+   "https://twitter.com/paerialleida"
+  ],
+  [
+   "Facebook",
+   "https://www.facebook.com/ajuntamentdelleida"
+  ],
+  [
+   "Telegram",
+   "https://t.me/joinchat/AAAAAFkPBMydYRJE_vzeZA"
+  ],
+  [
+   "Instagram",
+   "https://www.instagram.com/ajuntamentdelleida/"
+  ],
+  [
+   "Youtube",
+   "https://www.youtube.com/ajuntamentdelleida"
+  ],
+  [
+   "Centre de privacitat",
+   "https://www.paeria.cat/ca/centre-de-privacitat/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Canal de comunicació d'informants",
+   "https://www.paeria.cat/ca/ajuntament/informants/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Accessibilitat",
+   "https://www.paeria.cat/ca/accessibilitat/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Mapa del lloc",
+   "https://www.paeria.cat/ca/sitemap"
+  ],
+  [
+   "Atenció ciutadana",
+   "https://www.paeria.cat/ca/ca/ajuntament/atencio-ciutadana/@@redirect_language?set_language=ca"
+  ],
+  [
+   "Contacte",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?Cercador=True&IdTramit=1817"
+  ],
+  [
+   "SUBSCRIURE'S",
+   "https://paeria.us13.list-manage.com/subscribe?u=8aaec05d7c4a533e1ed4eafbd&id=d5e7750132"
+  ],
+  [
+   "",
+   "https://www.aoc.cat/reconeixements-2024/"
+  ],
+  [
+   "",
+   "https://www.paeria.cat/ca/ajuntament/transparenciaidadesobertes/transparencia-i-bon-govern/indicadors/indicadors-infoparticipa"
+  ],
+  [
+   "",
+   "https://www.idcat.cat/"
+  ],
+  [
+   "Més reconeixements",
+   "https://www.paeria.cat/ca/reconeixements"
+  ],
+  [
+   "",
+   "https://www.ecityclic.com/"
+  ],
+  [
+   "Tràmits",
+   "https://tramits.paeria.cat/Ciutadania/"
+  ],
+  [
+   "Calendari obertura festius",
+   "https://www.paeria.cat/ca/ciutat/calendaris/calendari-dobertura-de-comercos"
+  ],
+  [
+   "Padró",
+   "https://padro.paeria.cat/"
+  ],
+  [
+   "Oficina virtual",
+   "https://ajuntamentlleida.tributoslocales.es/ct/"
+  ],
+  [
+   "Seu electrònica",
+   "https://seu.paeria.cat/"
+  ],
+  [
+   "Cita prèvia",
+   "https://citaoficines.paeria.cat/"
+  ],
+  [
+   "Ofertes de feina gestionades per l’IMO",
+   "https://imolleida.paeria.cat/ca/persona/ofertes-de-feina-agencia-de-col-locacio/ofertes-de-feina-gestionades-per-l2019imo?set_language=ca"
+  ],
+  [
+   "Oposicions",
+   "https://paeria.convoca.online/index.html?type=0"
+  ],
+  [
+   "Zona blava",
+   "https://tramits.paeria.cat/Ciutadania/DetallTramit.aspx?IdTema=50&IdTramit=2426"
+  ],
+  [
+   "Baixes Emissions - ZBE",
+   "https://www.paeria.cat/ca/serveis/zona-de-baixes-emissions-de-lleida"
+  ],
+  [
+   "Licitacions",
+   "https://www.paeria.cat/ca/seu-electronica/perfil-del-contractant"
+  ],
+  [
+   "Nou servei de videoatenció ciutadana (VAC)",
+   "https://www.paeria.cat/ca/serveis/sempreambtu/videoatencio"
+  ],
+  [
+   "política de cookies",
+   "https://www.paeria.cat/ca/centre-de-privacitat/politica-de-cookies"
+  ],
+  [
+   "CONFIGURAR",
+   "https://www.paeria.cat/ca/actualitat/noticies#"
+  ]
+ ]
+}

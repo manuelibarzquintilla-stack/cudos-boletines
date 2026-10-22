@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-22",
- "generado": "2026-10-22T10:26:02+02:00",
+ "generado": "2026-10-22T10:35:43+02:00",
  "fuentes": {
   "BOE": {
    "estado": "OK",
@@ -12,15 +12,25 @@
    "elementos": 371,
    "detalle": ""
   },
-  "DOGC": {
+  "Consell Comarcal del Segrià": {
    "estado": "ERROR",
    "elementos": 0,
-   "detalle": "Página abierta, sin enlaces útiles"
+   "detalle": "ParseError: not well-formed (invalid token): line 5, column 14"
+  },
+  "Consell Comarcal del Segrià (convocatòries)": {
+   "estado": "ERROR",
+   "elementos": 0,
+   "detalle": "ParseError: not well-formed (invalid token): line 5, column 14"
+  },
+  "DOGC": {
+   "estado": "OK",
+   "elementos": 50,
+   "detalle": ""
   },
   "BOP Lleida": {
    "estado": "ERROR",
    "elementos": 0,
-   "detalle": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://bop.diputaciolleida.cat/\", waiting until \"domcontentloaded\"\n"
+   "detalle": "https://ebop.diputaciolleida.cat/bop/ -> TimeoutError: Page.goto: Timeout 120000ms exceeded."
   },
   "Ajuntament de Lleida": {
    "estado": "OK",
@@ -29,13 +39,8 @@
   },
   "Consell Comarcal de la Noguera": {
    "estado": "OK",
-   "elementos": 27,
+   "elementos": 28,
    "detalle": ""
-  },
-  "Consell Comarcal del Segrià": {
-   "estado": "ERROR",
-   "elementos": 0,
-   "detalle": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ccsegria.cat/\nCall log:\nnavigating to \"https://www.ccsegria.cat/\", waiting until \"domcontentloaded\"\n"
   }
  },
  "publicaciones": [
@@ -4992,6 +4997,406 @@
    "fecha": "2026-10-21"
   },
   {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Saltar al contingut principal",
+   "url": "https://dogc.gencat.cat/ca/inici/#main",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Diari Oficial de la Generalitat de Catalunya",
+   "url": "https://dogc.gencat.cat/ca/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Accedeix a “ Serveis”",
+   "url": "https://dogc.gencat.cat/ca/serveis/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Consulta del DOGC",
+   "url": "https://dogc.gencat.cat/ca/serveis/Consulta-del-DOGC/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Publicar un anunci",
+   "url": "https://dogc.gencat.cat/ca/serveis/publicar-un-anunci/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Alertes i subscripcions",
+   "url": "https://dogc.gencat.cat/ca/serveis/subscripcions/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Suplement d’anuncis de notificació",
+   "url": "https://dogc.gencat.cat/ca/serveis/Suplement_anuncis_notificacio/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "El DOGC del dia a X. Obre en una nova finestra.",
+   "url": "https://twitter.com/dogcdeldia",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Verificació de documents",
+   "url": "https://dogc.gencat.cat/ca/serveis/verificar-documents/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Normes urbanístiques 1985-2002",
+   "url": "https://dogc.gencat.cat/ca/serveis/normes-urbanisti.-1985/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "DOGC de 1931-1939 i l’exili",
+   "url": "https://dogc.gencat.cat/ca/serveis/dogc-republica-i-exili/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Publicacions de la Generalitat 1931-1939. Obre en una nova finestra.",
+   "url": "https://dogc.gencat.cat/ca/publicacions-de-la-generalitat-de-catalunya/Publicacions_1931-1939/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Dietaris de la Generalitat de Catalunya 1411-1713",
+   "url": "https://dogc.gencat.cat/ca/serveis/dietaris/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Suplement en llengua catalana del BOE",
+   "url": "https://dogc.gencat.cat/ca/serveis/suplement-boe-catala/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Accedeix a “ Sobre el DOGC”",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Què és el DOGC?",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/que-es-el-DOGC/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Història del DOGC",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/historia-del-dogc/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "90 anys del ‘Diari Oficial de la Generalitat de Catalunya’",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/90_Anys_DOGC/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Normativa. Obre en una nova finestra.",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/normativa/#DOGC",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Accedeix a “ Entitat Autònoma del Diari Oficial i de Publicacions”",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Funcions i normativa",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/normativa/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Accedeix a “ Transparència i bon govern”",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Carta de serveis",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/carta-de-serveis/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Perfil del contractant. Obre en una nova finestra.",
+   "url": "https://contractaciopublica.gencat.cat/ecofin_pscp/AppJava/cap.do?keyword=&reqCode=viewDetail&idCap=203411&department=11000&",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Projectes normatius",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/projectes-normatius/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Pressupost vigent",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/gestio-economica/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Protecció de dades personals",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/proteccio-de-dades-personals/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Serveis editorials",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/Serveis_editorials/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Adreces i contacte",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/adreces-i-contacte/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Preguntes freqüents",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/preguntes-frequents/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Altres diaris oficials",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/altres-diaris-oficials/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Portal Jurídic . Obre en una nova finestra.",
+   "url": "https://portaljuridic.gencat.cat/ca/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Llibreria . Obre en una nova finestra.",
+   "url": "https://llibreria.gencat.cat/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Disposicions generals",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Disposicions_generals",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Altres disposicions",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Altres_disposicions",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Càrrecs i personal",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-C%C3%A0rrecs_i_personal",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Administració local",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Administraci%C3%B3_local",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Altres subjectes emissors",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Altres_subjectes_emissors",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Descarrega el DOGC complet",
+   "url": "https://portaldogc.gencat.cat/utilsEADOP/dogc2/dogc_ca.pdf",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Descarrega el sumari",
+   "url": "https://portaldogc.gencat.cat/utilsEADOP/dogc2/sumari_ca.pdf",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Accés a l'últim Suplement",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-suplement/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Convenis col·lectius (Obre en una nova finestra)",
+   "url": "https://dogc.gencat.cat/ca/inici/resultats/index.html?orderBy=3&page=1&typeSearch=1&advanced=true&current=true&title=true&numResultsByPage=50&publicationDateInitial=6&thematicDescriptor=D194",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Oferta pública d'ocupació (Obre en una nova finestra)",
+   "url": "https://dogc.gencat.cat/ca/inici/resultats/index.html?orderBy=3&page=1&typeSearch=1&advanced=true&current=true&title=true&numResultsByPage=50&publicationDateInitial=3&thematicDescriptor=D4090&thematicDescriptor=DE1738",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Informació pública (Obre en una nova finestra)",
+   "url": "https://dogc.gencat.cat/ca/inici/resultats/index.html?orderBy=3&page=1&typeSearch=1&advanced=true&current=true&title=true&numResultsByPage=50&publicationDateInitial=3&value=%22anunci%20d%27informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22sotmet%20a%20informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22sotmeten%20a%20informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22sobre%20informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22aprovaci%C3%B3%20inicial%22",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Dades obertes: Normativa de Catalunya publicada al DOGC . Obre en una nova finestra.",
+   "url": "https://analisi.transparenciacatalunya.cat/Legislaci-just-cia/Normativa-de-Catalunya-publicada-al-DOGC/n6hn-rmy7",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Preguntes freqüents . Obre en una nova finestra.",
+   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/preguntes-frequents/index.html",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Bústia de contacte",
+   "url": "https://ovt.gencat.cat/gsitfc/AppJava/generic/conqxsGeneric.do?webFormId=391&&topicLevel1ByURL.id=500&topicLevel2ByURL.id=657&set-locale=ca_ES",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Política de galetes",
+   "url": "https://tramits.gencat.cat/ca/ajuda/politica-de-galetes/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Declaració d'accessibilitat",
+   "url": "https://dogc.gencat.cat/ca/ajuda/Accessibilitat/index.html",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Més informació sobre l'ús de les galetes en aquest web.",
+   "url": "https://web.gencat.cat/ca/ajuda/politica-de-galetes/#galetes-estadistiques-o-d%E2%80%99optimitzacio",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
    "fuente": "Ajuntament de Lleida",
    "seccion": "",
    "titulo": "SALTAR AL CONTINGUT",
@@ -6188,6 +6593,14 @@
    "seccion": "",
    "titulo": "Diputació de Lleida",
    "url": "https://www.diputaciolleida.cat/",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal de la Noguera",
+   "seccion": "",
+   "titulo": "Funciona amb Klaro!",
+   "url": "https://kiprotect.com/klaro",
    "extracto": "",
    "fecha": "2026-10-22"
   }
