@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-22",
- "generado": "2026-10-22T10:35:43+02:00",
+ "generado": "2026-10-22T10:45:18+02:00",
  "fuentes": {
   "BOE": {
    "estado": "OK",
@@ -15,22 +15,27 @@
   "Consell Comarcal del Segrià": {
    "estado": "ERROR",
    "elementos": 0,
-   "detalle": "ParseError: not well-formed (invalid token): line 5, column 14"
+   "detalle": "La respuesta no contiene elementos RSS (empieza por: '<!DOCTYPE html>\\n<html lang=\"ca\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" style=')"
   },
   "Consell Comarcal del Segrià (convocatòries)": {
    "estado": "ERROR",
    "elementos": 0,
-   "detalle": "ParseError: not well-formed (invalid token): line 5, column 14"
+   "detalle": "La respuesta no contiene elementos RSS (empieza por: '<!DOCTYPE html>\\n<html lang=\"ca\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" style=')"
   },
   "DOGC": {
    "estado": "OK",
-   "elementos": 50,
+   "elementos": 104,
    "detalle": ""
   },
   "BOP Lleida": {
    "estado": "ERROR",
    "elementos": 0,
-   "detalle": "https://ebop.diputaciolleida.cat/bop/ -> TimeoutError: Page.goto: Timeout 120000ms exceeded."
+   "detalle": "https://ebop.diputaciolleida.cat/bop/ -> TimeoutError: Page.goto: Timeout 90000ms exceeded."
+  },
+  "Consell Comarcal del Segrià (web)": {
+   "estado": "OK",
+   "elementos": 18,
+   "detalle": ""
   },
   "Ajuntament de Lleida": {
    "estado": "OK",
@@ -4999,400 +5004,976 @@
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Saltar al contingut principal",
-   "url": "https://dogc.gencat.cat/ca/inici/#main",
+   "titulo": "Descarrega sumari Descarrega sumari",
+   "url": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/jsp/captcha/RecaptchaServlet.jsp?dogcId=9778&sumari=true&language=ca_ES",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Diari Oficial de la Generalitat de Catalunya",
-   "url": "https://dogc.gencat.cat/ca/",
+   "titulo": "Descarrega DOGC complet Descarrega DOGC complet",
+   "url": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?dogcId=9778&language=ca_ES",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Accedeix a “ Serveis”",
-   "url": "https://dogc.gencat.cat/ca/serveis/",
+   "titulo": "Veure el Suplement notificacions",
+   "url": "https://dogc.gencat.cat/ca/sumari-del-suplement/?numDOGC=9778SN",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Consulta del DOGC",
-   "url": "https://dogc.gencat.cat/ca/serveis/Consulta-del-DOGC/",
+   "titulo": "Ordre JUS/208/2026, de 8 d'octubre, sobre els peritatges judicials a càrrec del Departament de Justícia i Qualitat Democràtica, el procediment per al seu pagament i l'organització de les llistes de perits",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057410",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Publicar un anunci",
-   "url": "https://dogc.gencat.cat/ca/serveis/publicar-un-anunci/",
+   "titulo": "Edicte de 14 d'octubre de 2026, sobre un acord de la Comissió Territorial d'Urbanisme de l'Arc Metropolità de Barcelona referent al municipi de Cardedeu",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057485",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Alertes i subscripcions",
-   "url": "https://dogc.gencat.cat/ca/serveis/subscripcions/",
+   "titulo": "Edicte de 15 d'octubre de 2026, sobre un acord de la Comissió Territorial d'Urbanisme del Camp de Tarragona referent al municipi de la Selva del Camp",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057439",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Suplement d’anuncis de notificació",
-   "url": "https://dogc.gencat.cat/ca/serveis/Suplement_anuncis_notificacio/",
+   "titulo": "Resolució IFE/3772/2026, de 16 d'octubre, per la qual es modifica l'Ordre TSF/218/2020, de 16 de desembre, per a la provisió dels serveis de la Xarxa de Serveis Socials d'Atenció Pública, en relació amb els annexos 20, 21, 22, 23, 24, 25, 26 i 56, que regulen els serveis socials de la Xarxa de Serveis Socials d'Atenció Pública en l'àmbit de les violències masclistes",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057460",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "El DOGC del dia a X. Obre en una nova finestra.",
-   "url": "https://twitter.com/dogcdeldia",
+   "titulo": "Resolució REU/3770/2026, de 15 d'octubre, per la qual s'aproven les bases reguladores dels ajuts per als estudiants matriculats en una universitat catalana que tinguin concedida una beca de caràcter general per a estudis postobligatoris o una beca Equitat per promoure la formació i l'acreditació de terceres llengües",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057453",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Verificació de documents",
-   "url": "https://dogc.gencat.cat/ca/serveis/verificar-documents/",
+   "titulo": "Acord GOV/256/2026, de 20 d'octubre, pel qual s'aprova el Pla estratègic per a la lluita contra les estafes virtuals 2026-2028",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057478",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Normes urbanístiques 1985-2002",
-   "url": "https://dogc.gencat.cat/ca/serveis/normes-urbanisti.-1985/",
+   "titulo": "Acord GOV/257/2026, de 20 d'octubre, pel qual s'impulsen mesures per ampliar els supòsits d'accés i l'objecte dels ajuts en forma de préstecs del Fons Públic d'Emancipació",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057437",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "DOGC de 1931-1939 i l’exili",
-   "url": "https://dogc.gencat.cat/ca/serveis/dogc-republica-i-exili/",
+   "titulo": "Acord GOV/258/2026, de 20 d'octubre, pel qual s'autoritza la cessió gratuïta del domini dels immobles que formen una part de l'aeròdrom de la Cerdanya, situats al terme municipal de Das, a favor del Consorci de l'Aeròdrom de la Cerdanya",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057493",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Publicacions de la Generalitat 1931-1939. Obre en una nova finestra.",
-   "url": "https://dogc.gencat.cat/ca/publicacions-de-la-generalitat-de-catalunya/Publicacions_1931-1939/",
+   "titulo": "Acord GOV/260/2026, de 20 d'octubre, pel qual s'aprova el Pla de salut de Catalunya. Horitzó 2035",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057428",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Dietaris de la Generalitat de Catalunya 1411-1713",
-   "url": "https://dogc.gencat.cat/ca/serveis/dietaris/",
+   "titulo": "Resolució EMT/3768/2026, de 19 d'octubre, per la qual s'estableix la suplència de la persona titular de la Subdirecció General d'Inversió Industrial de la Direcció General d'Indústria de la Secretaria d'Empresa i Innovació del Departament d'Empresa i Treball",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057483",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Suplement en llengua catalana del BOE",
-   "url": "https://dogc.gencat.cat/ca/serveis/suplement-boe-catala/",
+   "titulo": "Resolució IFE/3769/2026, de 16 d'octubre, de modificació de la Resolució IFE/4485/2024, de 12 de desembre, de delegació de competències de la persona titular del Departament d'Igualtat i Feminisme en les persones titulars de diversos òrgans del Departament",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057469",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Accedeix a “ Sobre el DOGC”",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/",
+   "titulo": "Resolució ARP/3771/2026, de 20 d'octubre, per la qual s'aprova el Pla d'aplicació aèria per al control de la processionària del pi per a la campanya del 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057473",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Què és el DOGC?",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/que-es-el-DOGC/",
+   "titulo": "Correcció d'errada a la Circular 1/2026, sobre el tractament de dades personals mitjançant càmeres amb fins de videovigilància (DOGC núm. 9775, de 19.10.2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057400",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Història del DOGC",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/historia-del-dogc/",
+   "titulo": "Acord de la Mesa del Parlament de 29 de setembre de 2026, del procés de selecció per cobrir tres places de xofer o xofera polivalent del Parlament de Catalunya (501-00008/15)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057438",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "90 anys del ‘Diari Oficial de la Generalitat de Catalunya’",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/90_Anys_DOGC/",
+   "titulo": "Acord de la Mesa del Parlament de 13 d'octubre de 2026, del procés de selecció per cobrir tres places de xofer o xofera polivalent del Parlament de Catalunya (501-00008/15)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057397",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Normativa. Obre en una nova finestra.",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/normativa/#DOGC",
+   "titulo": "Resolució PRE/3764/2026, de 18 d'octubre, de convocatòria de concurs específic de mèrits i capacitats per proveir cinc llocs de treball de la Direcció General d'Infraestructures Digitals del Departament de la Presidència (convocatòria de provisió núm. PRE/44/26)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057427",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Accedeix a “ Entitat Autònoma del Diari Oficial i de Publicacions”",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/",
+   "titulo": "Acord GOV/259/2026, de 20 d'octubre, de nomenament de vocals de la Junta de Govern de l'Institut Català de Finances",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057425",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Funcions i normativa",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/normativa/",
+   "titulo": "Correcció d'errades a la Resolució JUS/3704/2026, de 14 d'octubre, per la qual s'anuncia concurs per a la provisió de notaries vacants (DOGC núm. 9775, de 19.10.2026, i BOE núm. 259, de 19.10.2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057487",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Accedeix a “ Transparència i bon govern”",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/",
+   "titulo": "Resolució TER/3758/2026, de 19 d'octubre, per la qual es resol la convocatòria del procés de selecció de l'Institut Català del Sòl, mitjançant concurs oposició, per a la provisió, en règim de contracte laboral indefinit fix, d'una plaça vacant d'especialista en contractació (OP-04-26)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057445",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Carta de serveis",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/carta-de-serveis/",
+   "titulo": "Resolució TER/3759/2026, de 19 d'octubre, per la qual es resol la convocatòria del procés de selecció de l'Institut Català del Sòl, mitjançant concurs oposició, per a la provisió, en règim de contracte laboral indefinit fix, d'una plaça vacant d'especialista en subsol (OP-10-26)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057488",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Perfil del contractant. Obre en una nova finestra.",
-   "url": "https://contractaciopublica.gencat.cat/ecofin_pscp/AppJava/cap.do?keyword=&reqCode=viewDetail&idCap=203411&department=11000&",
+   "titulo": "Anunci sobre la resolució de la convocatòria pública per a la provisió del lloc de treball de director/a de Recursos Humans del Parc Sanitari Pere Virgili",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057399",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Projectes normatius",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/projectes-normatius/",
+   "titulo": "Resolució EDF/3754/2026, de 16 d'octubre, per la qual es resol el concurs de trasllats convocat per la Resolució EDF/3852/2024, de 29 d'octubre, per al personal funcionari de carrera i en pràctiques del cos de mestres",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057457",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Pressupost vigent",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/transparencia/gestio-economica/",
+   "titulo": "Resolució EDF/3766/2026, de 19 d'octubre, per la qual es modifica la composició de l'Òrgan Tècnic de Selecció dels processos de selecció de nou accés, mitjançant el sistema selectiu de concurs oposició, de les categories professionals de personal laboral de logopeda (B1), audioprotetista (B1) i d'auxiliar d'educació especial (D1) del Departament d'Educació i Formació Professional de la Generalitat de Catalunya (núm. de registre de la convocatòria L012/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057404",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Protecció de dades personals",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/proteccio-de-dades-personals/",
+   "titulo": "Resolució EDF/3767/2026, de 16 d'octubre, per la qual es resol el concurs de trasllats convocat per la Resolució EDF/3853/2024, de 29 d'octubre, adreçat al personal funcionari de carrera i en pràctiques per proveir llocs de treball vacants a la Inspecció d'Educació, i llocs de treball vacants corresponents als cossos d'ensenyaments secundaris i de règim especial als instituts, instituts escola, a les escoles oficials d'idiomes i a les escoles d'art i superiors de disseny",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057458",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Serveis editorials",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/Serveis_editorials/",
+   "titulo": "Resolució EMT/3775/2026, de 15 d'octubre, per la qual es publica la relació de persones seleccionades en el concurs d'oposició per a la provisió de llocs de treball en règim de contracte laboral indefinit fix al servei de l'Agència per a la Competitivitat de l'Empresa corresponent a l'oferta pública ordinària de contractació laboral fixa del 2024",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057467",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Adreces i contacte",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/eadop/adreces-i-contacte/",
+   "titulo": "Resolució de 13 d'octubre de 2026, per la qual es declara finalitzat el procediment i deserta una plaça de professorat lector en règim de contracte laboral (ref. ALE00851) (convocatòria núm. 2026/D/LEM/CL/1)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057475",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Preguntes freqüents",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/preguntes-frequents/",
+   "titulo": "Resolució de 14 d'octubre de 2026, per la qual es nomena catedràtic d'universitat el senyor José Fernández Cavia",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057454",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Altres diaris oficials",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/altres-diaris-oficials/",
+   "titulo": "Resolució de 14 d'octubre de 2026, per la qual es nomena catedràtica d'universitat la senyora Núria Bou Sala",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057455",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Portal Jurídic . Obre en una nova finestra.",
-   "url": "https://portaljuridic.gencat.cat/ca/",
+   "titulo": "Resolució ECF/3712/2026, d'1 d'octubre, per la qual s'encarrega al Consorci Administració Oberta de Catalunya l'increment del nombre de certificats digitals sol·licitats anteriorment per l'Agència Tributària de Catalunya per a l'any 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057463",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Llibreria . Obre en una nova finestra.",
-   "url": "https://llibreria.gencat.cat/",
+   "titulo": "Resolució TER/3713/2026, de 22 de setembre, per la qual es considera no substancial la modificació de l'autorització ambiental G1RA190111 atorgada a l'empresa Premier Pigs, SL (abans Ginpig Service, SL), per a una activitat ramadera de bestiar porcí al terme municipal de Sant Martí de Llémena (exp. G1CNS240146)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057413",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Disposicions generals",
-   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Disposicions_generals",
+   "titulo": "Resolució TER/3717/2026, de 9 d'octubre, per la qual s'atorga, es renova i s'amplia el distintiu de garantia de qualitat ambiental per a diverses categories de productes i serveis",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057416",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Altres disposicions",
-   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Altres_disposicions",
+   "titulo": "Resolució TER/3743/2026, de 16 d'octubre, per la qual es fa públic l'Acord de declaració d'impacte ambiental del Projecte per a una activitat ramadera avícola, al terme municipal de Tortosa, promogut per l'empresa Avícola Subirats, SL, (exp. FUE-2024-04077983)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057441",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Càrrecs i personal",
-   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-C%C3%A0rrecs_i_personal",
+   "titulo": "Anunci d'informació pública sobre la sol·licitud de modificació de l'autorització administrativa prèvia i de construcció, i declaració d'utilitat pública de la quarta addenda al projecte de transformació a doble circuit de la línia de transport d'energia elèctrica a 220 kV Mangraners-Juneda-l'Espluga-Montblanc-Penedès-Begues, per a la modificació del tram Mangraners-Juneda i Mangraners-l'Espluga entre els suports T-7 i T-31, als termes municipals de Lleida i Torregrossa (exp. FUE-2026-05234106)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057466",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Administració local",
-   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Administraci%C3%B3_local",
+   "titulo": "Resolució SLT/3757/2026, de 19 d'octubre, per la qual es crea l'Equip d'Atenció Primària Can Ribes - Ernest Lluch (Gavà 3) i s'adapten els àmbits territorials d'actuació dels equips d'atenció primària Gavà 1 i Gavà 2",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057415",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Altres subjectes emissors",
-   "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9778#section-Altres_subjectes_emissors",
+   "titulo": "Resolució EDF/3715/2026, de 8 d'octubre, per la qual es modifica l'autorització del centre educatiu privat Formació Esportiva Tortosa, de Tortosa",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057479",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Descarrega el DOGC complet",
-   "url": "https://portaldogc.gencat.cat/utilsEADOP/dogc2/dogc_ca.pdf",
+   "titulo": "Resolució EDF/3716/2026, de 8 d'octubre, per la qual s'autoritza el canvi de titularitat del centre educatiu privat Xaloc, de l'Hospitalet de Llobregat",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057406",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Descarrega el sumari",
-   "url": "https://portaldogc.gencat.cat/utilsEADOP/dogc2/sumari_ca.pdf",
+   "titulo": "Resolució EDF/3718/2026, de 14 d'octubre, per la qual es fa pública la relació d'escoles i centres que duran a terme la formació per a les proves d'accés als cicles formatius d'arts plàstiques i disseny, en el curs acadèmic 2026-2027",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057490",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Accés a l'últim Suplement",
-   "url": "https://dogc.gencat.cat/ca/sumari-del-suplement/",
+   "titulo": "Edicte de 14 d'octubre de 2026, pel qual se sotmeten a informació pública el Projecte constructiu d'arranjament de la resclosa de Canet, als termes municipals de la Tallada d'Empordà i Serra de Daró (Baix Empordà), i l'estudi d'impacte ambiental corresponent (expedients: VR-24319 i IA-VR-24319)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057417",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Convenis col·lectius (Obre en una nova finestra)",
-   "url": "https://dogc.gencat.cat/ca/inici/resultats/index.html?orderBy=3&page=1&typeSearch=1&advanced=true&current=true&title=true&numResultsByPage=50&publicationDateInitial=6&thematicDescriptor=D194",
+   "titulo": "Anunci de l'oferta pública d'ocupació per a l'any 2026 d'acord amb la Llei 31/2022, de 23 de desembre, de pressupostos generals de l'Estat per a l'any 2023 (pressupostos prorrogats per a l'any 2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057403",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Oferta pública d'ocupació (Obre en una nova finestra)",
-   "url": "https://dogc.gencat.cat/ca/inici/resultats/index.html?orderBy=3&page=1&typeSearch=1&advanced=true&current=true&title=true&numResultsByPage=50&publicationDateInitial=3&thematicDescriptor=D4090&thematicDescriptor=DE1738",
+   "titulo": "Anunci sobre convocatòria del procés selectiu per a la constitució d'una borsa de treball per a la provisió del lloc de treball d'intervenció a l'Ajuntament d'Alcanar (exp. 6618/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057442",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Informació pública (Obre en una nova finestra)",
-   "url": "https://dogc.gencat.cat/ca/inici/resultats/index.html?orderBy=3&page=1&typeSearch=1&advanced=true&current=true&title=true&numResultsByPage=50&publicationDateInitial=3&value=%22anunci%20d%27informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22sotmet%20a%20informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22sotmeten%20a%20informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22sobre%20informaci%C3%B3%20p%C3%BAblica%22%20OR%20%22aprovaci%C3%B3%20inicial%22",
+   "titulo": "Edicte sobre aprovació definitiva del Projecte de millora i renovació de les xarxes de subministrament d'aigua en baixa d'Almacelles, actuacions 2 i 3 (exp. 833/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057411",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Dades obertes: Normativa de Catalunya publicada al DOGC . Obre en una nova finestra.",
-   "url": "https://analisi.transparenciacatalunya.cat/Legislaci-just-cia/Normativa-de-Catalunya-publicada-al-DOGC/n6hn-rmy7",
+   "titulo": "Anunci sobre aprovació definitiva de la Memòria valorada de les obres de conservació, adequació i millora de la pista poliesportiva del CEIP Pompeu Fabra d'Anglès (exp. X2026001721)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057480",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Preguntes freqüents . Obre en una nova finestra.",
-   "url": "https://dogc.gencat.cat/ca/sobre-el-dogc/preguntes-frequents/index.html",
+   "titulo": "Anunci sobre esmena de les bases de la convocatòria del procediment de selecció per cobrir pel sistema selectiu de concurs oposició, en torn lliure, tres places vacants de personal laboral de peó, assimilades al grup AP del personal funcionari, vinculades a dos llocs de treball d'operari brigada i un lloc d'operari brigada/neteja viària de l'Ajuntament d'Arenys de Mar, incloses en les ofertes públiques d'ocupació aprovades l'any 2024 i 2025 (exp. 4103/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057424",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Bústia de contacte",
-   "url": "https://ovt.gencat.cat/gsitfc/AppJava/generic/conqxsGeneric.do?webFormId=391&&topicLevel1ByURL.id=500&topicLevel2ByURL.id=657&set-locale=ca_ES",
+   "titulo": "Anunci sobre aprovació de l'oferta pública d'ocupació parcial per a l'any 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057449",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Política de galetes",
-   "url": "https://tramits.gencat.cat/ca/ajuda/politica-de-galetes/",
+   "titulo": "Anunci sobre aprovació definitiva del Projecte d'obres d'adequació i posada en valor del jaciment iber de les Masies de Sant Miquel (exp. 1741/2025)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057476",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Declaració d'accessibilitat",
-   "url": "https://dogc.gencat.cat/ca/ajuda/Accessibilitat/index.html",
+   "titulo": "Anunci sobre modificació de l'oferta pública d'ocupació i de les bases reguladores del procés selectiu de la plaça de tècnic/a dinamitzador/a",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057477",
    "extracto": "",
    "fecha": "2026-10-22"
   },
   {
    "fuente": "DOGC",
    "seccion": "",
-   "titulo": "Més informació sobre l'ús de les galetes en aquest web.",
-   "url": "https://web.gencat.cat/ca/ajuda/politica-de-galetes/#galetes-estadistiques-o-d%E2%80%99optimitzacio",
+   "titulo": "Anunci sobre convocatòria del procés selectiu de dues places d'operari/ària de brigada municipal",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057482",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació del Projecte d'intervenció en l'entorn ferroviari de l'estació de Camarles (ADIF)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057447",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci de remissió d'aprovació definitiva dels Estatuts de la Casa Museu Lluís Domènech i Montaner (exp. 1218/2026 1548)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057401",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació definitiva del Projecte simplificat d'obra local ordinària per a la construcció d'una gatera al veïnat de Sangosta, polígon 5, parcel·la 142, de Cassà de la Selva (exp. X2026002146)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057451",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de la modificació parcial de la plantilla de personal de l'Ajuntament de Castelldefels per a l'any 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057436",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació inicial del Projecte bàsic i executiu d'ordenament i redistribució a l'edifici de la República de Castelldefels",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057464",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació inicial del Projecte de restauració de l'envolupant de la torre de Can Gomar de Castelldefels",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057484",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació definitiva del Projecte executiu per a la substitució de la coberta i del revestiment exterior del local social i fase II del magatzem annex",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057393",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació de la convocatòria i les bases específiques que han de regir el procés de selecció per a la cobertura del lloc de treball d'encarregat/ada de la unitat operativa de serveis, pel sistema de concurs",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057452",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre cessament de personal eventual",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057486",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de l'oferta pública d'ocupació de l'Ajuntament de Lleida per a l'exercici 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057422",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació definitiva del Projecte d'adequació de l'esplanada del terreny situat al costat de l'escola Marinada i l'avinguda John Fitzgerald Kennedy, núm. 54, del Masnou (exp. núm. X2026019177)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057446",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació definitiva d'un projecte d'obres",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057444",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació definitiva del Projecte d'obres de l'església vella de Miravet",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057434",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de les bases reguladores i la convocatòria per a la selecció i provisió d'una plaça d'arquitecte/a, grup de classificació professional A, subgrup A1, vacant a la plantilla de personal funcionari de l'Ajuntament d'Òrrius, mitjançant sistema selectiu de concurs oposició, amb la modalitat d'accés lliure",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057402",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre l'oferta pública d'ocupació de l'any 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057430",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació inicial de l'Ordenança reguladora de la concessió d'ajuts individuals per a l'adquisició de llibres i/o material escolar, despeses de matriculació, despeses en transport i allotjament",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057414",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació inicial de l'Ordenança reguladora de la concessió d'ajuts per al foment del sector agrari al municipi",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057429",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació de l'oferta pública d'ocupació (OPO) parcial (3) de personal per a l'exercici 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057408",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació definitiva de la norma interna núm. 202, de caràcter reglamentari",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057405",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre nomenament d'un tècnic superior de contractació",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057491",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació definitiva del Projecte xarxa d'aigües pluvials carrer Joan Fuster, Ramon Llull i Migjorn, Xarxa d'aigües residuals carrer Joan Fuster i soterrament serveis carrer Migjorn i Marià Benlliure",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057423",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació definitiva del Projecte d'obra local ordinària d'arranjament del camí de Pujarnol i camí de Can Ginestar",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057470",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació definitiva de la Memòria tècnica valorada per a la substitució d'algunes fusteries de l'escola l'Entorn",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057450",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació inicial del Projecte de construcció d'una consergeria al hall de l'antic hospital de Reus (CONOBR 0309/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057435",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre convocatòria pública del procés selectiu per a la creació d'una borsa de treball d'auxiliars administratius/ives (exp. 2026/009215)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057398",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a les bases i la convocatòria del concurs oposició, promoció interna, d'una plaça de tècnic/a superior de personal funcionari, grup classificació A, subgrup A1, vinculada al lloc de treball de tècnic/a superior psicòleg/òloga - EAIA",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057433",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a les bases i la convocatòria del concurs oposició, promoció interna, d'una plaça de tècnic/a superior de personal funcionari, grup classificació A, subgrup A1, vinculada al lloc de treball de tècnic/a superior psicòleg/òloga - atenció a la dona",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057440",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a les bases i la convocatòria del concurs oposició, promoció interna, d'una plaça de tècnic/a superior de personal funcionari, grup classificació A, subgrup A1, vinculada al lloc de treball de tècnic/a superior psicòleg/òloga - promoció de la salut",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057432",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a les bases i la convocatòria del concurs oposició, promoció interna, d'una plaça de tècnic/a superior de personal funcionari, grup classificació A, subgrup A1, vinculada al lloc de treball de tècnic/a superior difusor/a - conservador/a",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057426",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a la relació provisional de persones aspirants admeses i excloses de la borsa de treball per proveir, amb caràcter d'urgència, llocs de treball de tècnic/a superior psicòleg/òloga - EAIA",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057395",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a la relació provisional de persones aspirants admeses i excloses de la borsa de treball per proveir, amb caràcter d'urgència, llocs de treball de pedagog/a",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057489",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació inicial d'adopció de la bandera de Salomó com a símbol local",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057396",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de la tercera oferta pública d'ocupació de caràcter ordinari per a l'any 2026 (exp. 4173/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057431",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació definitiva de les bases generals per a l'atorgament de subvencions en règim de concurrència competitiva i no competitiva adreçades al foment de la mobilitat sostenible",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057420",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre modificació del Reglament d'adjudicació i gestió del funcionament intern de l'allotjament temporal en situacions d'emergència",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057409",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de l'Ordenança d'administració digital",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057471",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de l'oferta pública d'ocupació de l'any 2026",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057456",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre modificació parcial de l'oferta pública d'ocupació de l'any 2023 (Annex II: oferta pública excepcional d'ocupació de l'any 2023)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057461",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre la relació provisional d'aspirants admesos, el calendari i la designació del tribunal del concurs oposició per promoció interna per cobrir la plaça 5113 de tècnic/a auxiliar de biblioteca, escala d'administració especial, subescala tècnica auxiliar, de personal funcionari de l'Ajuntament de Vilanova i la Geltrú",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057465",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre la relació provisional d'aspirants admesos, el calendari i la designació del tribunal del concurs oposició de lliure concurrència per cobrir una plaça de tècnic/a auxiliar de biblioteca, escala d'administració especial, subescala tècnica auxiliar, de personal funcionari de l'Ajuntament de Vilanova i la Geltrú",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057474",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre la relació provisional d'aspirants admesos, el calendari i la designació del tribunal del concurs oposició de lliure concurrència per cobrir una plaça de tècnic/a de grau mitjà (gestió tributària i recaptació), escala d'administració especial, subescala tècnica mitjana, de personal funcionari de l'Ajuntament de Vilanova i la Geltrú",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057481",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre aprovació de les bases i la convocatòria que hauran de regir el procés de selecció de dues places del grup B, de règim laboral, vinculades al lloc de treball de delineant, mitjançant concurs oposició, a proveir mitjançant promoció interna",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057448",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre modificació definitiva de les bases del procés selectiu per a la creació d'una borsa de treball d'arquitecte/a tècnic/a (grup A, subgrup A2), en règim de funcionari/ària interí/ina (exp. 2026/00013297H)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057421",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre delegació de competències del Ple al president",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057462",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de la convocatòria i les bases selectives reguladores del procés selectiu amb l'objecte de crear una borsa de treball del perfil professional de tècnic/a de l'Observatori Comarcal, grup A, subgrup A2, del Consell Comarcal del Vallès Occidental com a personal funcionari/personal laboral per a cobrir necessitats actuals i futures, així com possibles vacants temporals i substitucions que es puguin produir en el Consell Comarcal i en el Consorci per a la Gestió de Residus del Vallès Occidental (exp. 3135/2026)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057492",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre personal eventual",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057459",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre selecció de coordinador/a i treballador/a social de l'Àrea Bàsica de Serveis Socials",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057419",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre selecció de director/a de l'Àrea Bàsica de Serveis Socials, de personal fix i constitució d'una borsa de treball",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057394",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre convocatòria i bases que hauran de regir el procés de selecció, en règim de personal laboral fix, d'un/a director/a de l'Escola Municipal de Música de Sant Esteve de Palautordera i borsa de treball, mitjançant concurs oposició lliure (exp. 11-2025)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057443",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de l'oferta pública d'ocupació del Consorci de Castelldefels Agents de Salut (CASAP)",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057407",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci relatiu a la plantilla de personal de 2027",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057418",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci sobre aprovació de l'oferta pública d'ocupació del Consorci del Transport Públic de l'Àrea de Girona, Autoritat Territorial de Mobilitat",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057468",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Edicte sobre nomenament de personal com a director del Consorci del Turó de la Seu Vella de Lleida",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057412",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "DOGC",
+   "seccion": "",
+   "titulo": "Anunci pel qual es fa públic l'Acord de la Comissió Executiva de la Fundació Universitària Balmes",
+   "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1057472",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Vés al contingut",
+   "url": "https://www.segria.cat/actualitat#main-content",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Àrees i serveis",
+   "url": "https://www.segria.cat/arees",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Seu electrònica",
+   "url": "https://seu-e.cat/web/ccsegria",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Les Vesprades Teatrals arrenquen diumenge a Aspa amb la sàtira política “Tal faràs, tal trobaràs?”",
+   "url": "https://www.segria.cat/arees/cultura/noticies/les-vesprades-teatrals-arrenquen-diumenge-aspa-amb-la-satira-politica-tal",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Ple i xocolata desfeta a Massalcoreig en el darrer concert de Segrià Corals",
+   "url": "https://www.segria.cat/arees/cultura/noticies/ple-i-xocolata-desfeta-massalcoreig-en-el-darrer-concert-de-segria-corals",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Les veus de Massalcoreig, Alpicat i Alguaire canten demà al concert de Segrià Corals",
+   "url": "https://www.segria.cat/arees/cultura/noticies/les-veus-de-massalcoreig-alpicat-i-alguaire-canten-dema-al-concert-de-segria",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "La campanya \"Al Segrià ens tractem bé\" aporta bons resultats al Consell de les Alcaldies",
+   "url": "https://www.segria.cat/arees/serveis-socials/noticies/la-campanya-al-segria-ens-tractem-be-aporta-bons-resultats-al",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Les corals de Seròs, Alcarràs i Massalcoreig, unides en concert a Torre-Serona",
+   "url": "https://www.segria.cat/arees/cultura/noticies/les-corals-de-seros-alcarras-i-massalcoreig-unides-en-concert-torre-serona",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Més de 150 persones van escoltar el concert de les corals de Seròs, Alpicat i Alguaire",
+   "url": "https://www.segria.cat/arees/cultura/noticies/mes-de-150-persones-van-escoltar-el-concert-de-les-corals-de-seros-alpicat-i",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Gran concert de l'Agrupació de Guitarres de l'Orfeó Lleidatà a Aitona",
+   "url": "https://www.segria.cat/arees/cultura/noticies/gran-concert-de-lagrupacio-de-guitarres-de-lorfeo-lleidata-aitona",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "El cicle Segrià Corals unirà diumenge cantaires de Seròs, Alpicat i Alguaire",
+   "url": "https://www.segria.cat/arees/cultura/noticies/el-cicle-segria-corals-unira-diumenge-cantaires-de-seros-alpicat-i-alguaire",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "El president del Consell Comarcal del Segrià demana que augmentin els ajuts dels Fons de Transició Nuclear a l'agricultura",
+   "url": "https://www.segria.cat/arees/transicio-energetica/noticies/el-president-del-consell-comarcal-del-segria-demana-que",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Escenaris Singulars tanca temporada dissabte amb l'Agrupació de Guitarres de l'Orfeó Lleidatà a Aitona",
+   "url": "https://www.segria.cat/arees/cultura/noticies/escenaris-singulars-tanca-temporada-dissabte-amb-lagrupacio-de-guitarres-de",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "›› Pàgina següent",
+   "url": "https://www.segria.cat/actualitat?page=1",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Últim » Última pàgina",
+   "url": "https://www.segria.cat/actualitat?page=26",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Avís Legal i Política de Privacitat",
+   "url": "https://www.segria.cat/politica-de-privacitat",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Política de cookies",
+   "url": "https://www.segria.cat/cookies",
+   "extracto": "",
+   "fecha": "2026-10-22"
+  },
+  {
+   "fuente": "Consell Comarcal del Segrià (web)",
+   "seccion": "",
+   "titulo": "Protecció de dades",
+   "url": "https://www.segria.cat/sites/default/files/registre_activitats_ccs.pdf",
    "extracto": "",
    "fecha": "2026-10-22"
   },
