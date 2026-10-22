@@ -40,12 +40,12 @@ UA = (
 PAGINAS = [
     {
         "fuente": "DOGC",
-        "url": "https://dogc.gencat.cat/ca/inici/",
-        "patron_enlace": r"document-del-dogc|documentId=",
+        "urls": ["https://dogc.gencat.cat/ca/inici/", "https://dogc.gencat.cat/ca/"],
     },
     {
         "fuente": "BOP Lleida",
-        "url": "https://bop.diputaciolleida.cat/",
+        "urls": ["https://ebop.diputaciolleida.cat/bop/"],
+        "espera": 120,
         "filtro": [
             "ajuntament de lleida", "paeria",
             "consell comarcal de la noguera", "noguera",
@@ -55,16 +55,20 @@ PAGINAS = [
     },
     {
         "fuente": "Ajuntament de Lleida",
-        "url": "https://www.paeria.cat/ca/actualitat/noticies",
+        "urls": ["https://www.paeria.cat/ca/actualitat/noticies"],
     },
     {
         "fuente": "Consell Comarcal de la Noguera",
-        "url": "https://www.ccnoguera.cat/",
+        "urls": ["https://www.ccnoguera.cat/"],
     },
-    {
-        "fuente": "Consell Comarcal del Segrià",
-        "url": "https://www.ccsegria.cat/",
-    },
+]
+
+# Canales RSS (más fiables que leer la página)
+RSS = [
+    {"fuente": "Consell Comarcal del Segrià",
+     "url": "https://www.segria.cat/rss/actualitat"},
+    {"fuente": "Consell Comarcal del Segrià (convocatòries)",
+     "url": "https://www.segria.cat/rss/convocatories"},
 ]
 
 # Enlaces que no aportan nada (menús, redes, avisos legales...)
@@ -154,6 +158,32 @@ def recoger_bdns():
     return resultados, None
 
 
+# ---------------------------------------------------------------- RSS
+def recoger_rss(cfg):
+    import xml.etree.ElementTree as ET
+    r = requests.get(cfg["url"], headers={"User-Agent": UA}, timeout=TIMEOUT)
+    r.raise_for_status()
+    raiz = ET.fromstring(r.content)
+    limite = HOY - timedelta(days=7)
+    resultados = []
+    for it in raiz.iter("item"):
+        titulo = it.findtext("title") or ""
+        enlace = it.findtext("link") or ""
+        desc = re.sub(r"<[^>]+>", " ", it.findtext("description") or "")
+        fecha_txt = it.findtext("pubDate") or ""
+        fecha = None
+        try:
+            from email.utils import parsedate_to_datetime
+            fecha = parsedate_to_datetime(fecha_txt).date()
+        except Exception:  # noqa: BLE001
+            pass
+        if fecha and fecha < limite:
+            continue
+        resultados.append(item(cfg["fuente"], titulo, enlace, extracto=desc,
+                               fecha=fecha.isoformat() if fecha else None))
+    return resultados, None if resultados else "Sin novedades en los últimos 7 días"
+
+
 # ---------------------------------------------------------------- Webs
 def recoger_paginas():
     from playwright.sync_api import sync_playwright
@@ -162,20 +192,39 @@ def recoger_paginas():
     with sync_playwright() as p:
         navegador = p.chromium.launch()
         contexto = navegador.new_context(user_agent=UA, locale="ca-ES")
+        os.makedirs(os.path.join(CARPETA, "debug"), exist_ok=True)
         for cfg in PAGINAS:
             fuente = cfg["fuente"]
-            try:
-                pagina = contexto.new_page()
-                pagina.goto(cfg["url"], wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
-                pagina.wait_for_timeout(3000)
-                enlaces = pagina.eval_on_selector_all(
-                    "a[href]", "els => els.map(e => [e.innerText, e.href])")
+            ultimo_error = None
+            for url in cfg["urls"]:
+                try:
+                    pagina = contexto.new_page()
+                    pagina.goto(url, wait_until="domcontentloaded",
+                                timeout=cfg.get("espera", TIMEOUT) * 1000)
+                    pagina.wait_for_timeout(5000)
+                    enlaces = pagina.eval_on_selector_all(
+                        "a[href]", "els => els.map(e => [e.innerText, e.href])")
+                    titulo_pagina = pagina.title()
+                    pagina.close()
+                except Exception as e:  # noqa: BLE001
+                    ultimo_error = f"{url} -> {type(e).__name__}: {str(e).splitlines()[0]}"[:300]
+                    continue
+
+                # Volcado de diagnóstico: todos los enlaces de la página
+                nombre = re.sub(r"[^a-z0-9]+", "-", fuente.lower()).strip("-")
+                with open(os.path.join(CARPETA, "debug", f"{nombre}.json"), "w",
+                          encoding="utf-8") as f:
+                    json.dump({"url": url, "titulo": titulo_pagina,
+                               "enlaces": [[" ".join((t or "").split()), h]
+                                           for t, h in enlaces][:400]},
+                              f, ensure_ascii=False, indent=1)
+
                 vistos, items = set(), []
                 for texto, href in enlaces:
                     texto = " ".join((texto or "").split())
                     if len(texto) < 15 or DESCARTAR_TEXTO.match(texto):
                         continue
-                    href = urljoin(cfg["url"], href)
+                    href = urljoin(url, href)
                     if href in vistos or href.startswith(("mailto:", "tel:", "javascript:")):
                         continue
                     if cfg.get("patron_enlace") and not re.search(cfg["patron_enlace"], href):
@@ -184,10 +233,11 @@ def recoger_paginas():
                         continue
                     vistos.add(href)
                     items.append(item(fuente, texto, href))
-                salida[fuente] = (items, None if items else "Página abierta, sin enlaces útiles")
-                pagina.close()
-            except Exception as e:  # noqa: BLE001
-                salida[fuente] = ([], f"{type(e).__name__}: {e}"[:300])
+                salida[fuente] = (items, None if items else
+                                  f"{url} abierta ({len(enlaces)} enlaces), ninguno útil")
+                break
+            else:
+                salida[fuente] = ([], ultimo_error)
         navegador.close()
     return salida
 
@@ -211,6 +261,12 @@ def main():
             anotar(nombre, *funcion())
         except Exception as e:  # noqa: BLE001
             anotar(nombre, [], f"{type(e).__name__}: {e}"[:300])
+
+    for cfg in RSS:
+        try:
+            anotar(cfg["fuente"], *recoger_rss(cfg))
+        except Exception as e:  # noqa: BLE001
+            anotar(cfg["fuente"], [], f"{type(e).__name__}: {e}"[:300])
 
     try:
         for nombre, (items, error) in recoger_paginas().items():
