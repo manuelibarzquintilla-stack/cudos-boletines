@@ -159,14 +159,40 @@ def recoger_bdns():
             num = c.get("numeroConvocatoria") or c.get("id")
             organo = " / ".join(x for x in [c.get("nivel1"), c.get("nivel2"),
                                             c.get("nivel3")] if x)
-            resultados.append(item(
+            nuevo = item(
                 "BDNS", c.get("descripcion") or c.get("titulo") or f"Convocatoria {num}",
                 f"https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/{num}",
                 extracto=organo, fecha=c.get("fechaRecepcion"),
-            ))
+            )
+            nuevo["numero"] = num
+            resultados.append(nuevo)
         if not isinstance(datos, dict) or datos.get("last", True):
             break
         pagina += 1
+
+    # Ficha completa solo de las convocatorias estatales, de Cataluña o de Lleida
+    def interesa(r):
+        o = r["extracto"].upper()
+        return o.startswith("ESTADO") or "CATALU" in o or "LLEIDA" in o or "LÉRIDA" in o
+
+    candidatas = [r for r in resultados if interesa(r)][:120]
+    for r in candidatas:
+        try:
+            d = requests.get(
+                "https://www.infosubvenciones.es/bdnstrans/api/convocatorias",
+                params={"numConv": r["numero"], "vpd": "GE"},
+                headers={"Accept": "application/json", "User-Agent": UA},
+                timeout=30).json()
+        except Exception:  # noqa: BLE001
+            continue
+        if not isinstance(d, dict):
+            continue
+        r["detalle"] = {k: d.get(k) for k in (
+            "tiposBeneficiarios", "tipoBeneficiarios", "sectores", "regiones",
+            "finalidad", "presupuestoTotal", "abierto",
+            "fechaInicioSolicitud", "fechaFinSolicitud", "textInicio", "textFin",
+            "sedeElectronica", "urlBasesReguladoras", "descripcionBasesReguladoras",
+            "instrumentos", "tipoConvocatoria") if d.get(k) not in (None, "", [])}
     return resultados, None
 
 
@@ -308,6 +334,24 @@ def main():
         anotar("Navegador", [], f"{type(e).__name__}: {e}"[:300])
 
     os.makedirs(CARPETA, exist_ok=True)
+    # Marca como "nuevo" lo que no se había visto en días anteriores
+    ruta_vistos = os.path.join(CARPETA, "vistos.json")
+    try:
+        with open(ruta_vistos, encoding="utf-8") as f:
+            vistos = json.load(f)
+    except Exception:  # noqa: BLE001
+        vistos = {}
+    for pub in resultado["publicaciones"]:
+        clave = pub["url"] or pub["titulo"]
+        primera = vistos.get(clave)
+        pub["nuevo"] = primera is None or primera == HOY.isoformat()
+        pub["visto_desde"] = primera or HOY.isoformat()
+        vistos.setdefault(clave, HOY.isoformat())
+    limite = (HOY - timedelta(days=180)).isoformat()
+    vistos = {k: v for k, v in vistos.items() if v >= limite}
+    with open(ruta_vistos, "w", encoding="utf-8") as f:
+        json.dump(vistos, f, ensure_ascii=False)
+
     for nombre in (f"{HOY.isoformat()}.json", "ultimo.json"):
         with open(os.path.join(CARPETA, nombre), "w", encoding="utf-8") as f:
             json.dump(resultado, f, ensure_ascii=False, indent=1)
