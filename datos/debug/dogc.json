@@ -1,796 +1,1041 @@
 {
- "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9790",
+ "url": "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9791",
  "titulo": "Sumari del DOGC. Diari Oficial de la Generalitat de Catalunya",
  "enlaces": [
   [
    "Castellano",
-   "https://dogc.gencat.cat/es/sumari-del-dogc/index.html?numDOGC=9790",
+   "https://dogc.gencat.cat/es/sumari-del-dogc/index.html?numDOGC=9791",
    ""
   ],
   [
-   "DOGC núm. 9789",
-   "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9789",
+   "DOGC núm. 9790",
+   "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9790",
    "Diari Oficial de la Generalitat de Catalunya"
   ],
   [
    "Descarrega sumari Descarrega sumari",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/jsp/captcha/RecaptchaServlet.jsp?dogcId=9790&sumari=true&language=ca_ES",
-   "DOGC núm. 9790"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/jsp/captcha/RecaptchaServlet.jsp?dogcId=9791&sumari=true&language=ca_ES",
+   "DOGC núm. 9791"
   ],
   [
    "Descarrega DOGC complet Descarrega DOGC complet",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?dogcId=9790&language=ca_ES",
-   "DOGC núm. 9790"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?dogcId=9791&language=ca_ES",
+   "DOGC núm. 9791"
   ],
   [
-   "Veure el Suplement notificacions",
-   "https://dogc.gencat.cat/ca/sumari-del-suplement/?numDOGC=9790SN",
+   "Veure Annex A",
+   "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9791A",
    "Sumari"
   ],
   [
-   "Llei 15/2026, de 6 de novembre, d'actualització de la legislació amb relació als termes emprats per a referir-se a les persones amb discapacitat",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058711",
-   "Disposicions generals > Departament de la Presidència"
+   "Veure el Suplement notificacions",
+   "https://dogc.gencat.cat/ca/sumari-del-suplement/?numDOGC=9791SN",
+   "Sumari"
   ],
   [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058711&type=01&language=ca_ES",
-   "Disposicions generals > Departament de la Presidència"
-  ],
-  [
-   "Edicte de 30 d'octubre de 2026, sobre un acord de la Comissió Territorial d'Urbanisme de l'àmbit metropolità de Barcelona referent al municipi de Sant Cugat del Vallès",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058671",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058671&type=01&language=ca_ES",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Edicte de 30 d'octubre de 2026, sobre un acord de la Comissió de Territori de Catalunya referent als municipis de Sant Andreu de Llavaneres i Sant Vicenç de Montalt",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058660",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058660&type=01&language=ca_ES",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Correcció d'errades a l'Edicte de 7 de novembre de 2024, sobre acords de la Comissió Territorial d'Urbanisme de Girona adoptats en les sessions de 24 de juliol de 2024 i de 9 d'octubre de 2024 referents al municipi de Banyoles (DOGC núm. 9290, de 14.11.2024)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058701",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058701&type=01&language=ca_ES",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Resolució TER/4038/2026, de 4 de novembre, per la qual es fa públic l'Acord del Consell d'Administració de l'Agència Catalana de l'Aigua pel qual es modifica la base 8 de les bases reguladores d'una línia de subvencions adreçades als ens locals per a la redacció de projectes constructius d'actuacions de protecció davant d'avingudes que beneficiïn una zona urbana i d'actuacions de prevenció i reparació de danys en el domini públic hidràulic en trams urbans, fetes públiques mitjançant la Resolució ACC/623/2024, de 29 de febrer",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058663",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica > Agència Catalana de l'Aigua"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058663&type=01&language=ca_ES",
-   "Disposicions generals > Departament de Territori, Habitatge i Transició Ecològica > Agència Catalana de l'Aigua"
-  ],
-  [
-   "Ordre ARP/216/2026, de 4 de novembre, per la qual s'aproven les bases reguladores dels ajuts destinats a les explotacions agràries per fer front a adversitats climàtiques amb danys significatius sobre la producció agrària i/o sobre el potencial productiu",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058649",
-   "Disposicions generals > Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058649&type=01&language=ca_ES",
-   "Disposicions generals > Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
-  ],
-  [
-   "Resolució PRE/3928/2026, de 27 d'octubre, per la qual s'aprova la convocatòria derivada de les bases reguladores que han de regir la concessió dels Premis Institut d'Estudis de l'Autogovern en les categories d'article en l'àmbit de la ciència política i d'article en l'àmbit del dret públic, per a l'any 2026",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058650",
-   "Altres disposicions > Departament de la Presidència"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058650&type=01&language=ca_ES",
-   "Altres disposicions > Departament de la Presidència"
-  ],
-  [
-   "Resolució JUS/3983/2026, de 15 d'octubre, per la qual s'inscriu al Registre de col·legis professionals de la Generalitat de Catalunya el Reglament de desenvolupament del vot electrònic en les eleccions col·legials del Col·legi Oficial de l'Arquitectura Tècnica de Tarragona",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058675",
+   "Resolució JUS/4008/2026, de 28 d'octubre, dictada en el recurs governatiu interposat pel notari de Terrassa Ll. G. C. i per la lletrada A. A. C., en representació dels interessats en l'herència, contra la qualificació de la registradora de la propietat del Registre de la Propietat de Terrassa núm. 2 que suspèn la inscripció d'una escriptura de manifestació i acceptació d'herència",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058819",
    "Altres disposicions > Departament de Justícia i Qualitat Democràtica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058675&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058819&type=01&language=ca_ES",
    "Altres disposicions > Departament de Justícia i Qualitat Democràtica"
   ],
   [
-   "Ordre EDF/217/2026, de 3 de novembre, per la qual s'aproven les bases reguladores que han de regir la concessió de subvencions destinades a l'escolarització d'infants de zero a tres anys a les llars d'infants de titularitat privada, per al curs 2026-2027",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058673",
-   "Altres disposicions > Departament d'Educació i Formació Professional"
+   "Ordre EMT/222/2026, de 9 de novembre, de modificació de l'Ordre EMT/220/2026, de 5 de novembre, per la qual es garanteixen els serveis essencials que s'han de prestar a Catalunya durant les convocatòries de vaga general previstes per al dia 11 de novembre de 2026 (DOGC núm. 9789, de 6.11.2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058830",
+   "Altres disposicions > Departament d'Empresa i Treball"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058673&type=01&language=ca_ES",
-   "Altres disposicions > Departament d'Educació i Formació Professional"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058830&type=01&language=ca_ES",
+   "Altres disposicions > Departament d'Empresa i Treball"
   ],
   [
-   "Correcció d'errades a la Resolució EMT/3025/2026, de 30 de juliol, per la qual s'obre la convocatòria de subvencions per a l'any 2026 d'actuacions d'orientació adreçades al sector agrari, emmarcades en el programa Orienta (SOC-ORIENTA AGRARI) (codi BDNS 923474) (DOGC núm. 9741, de 31.8.2026)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058647",
-   "Altres disposicions > Departament d'Empresa i Treball > Servei Públic d'Ocupació de Catalunya"
+   "Resolució REU/4058/2026, de 5 de novembre, per la qual s'aproven les bases reguladores que han de regir els ajuts Joan Oró per a la contractació de personal investigador predoctoral en formació (FI) per a l'any 2027",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058811",
+   "Altres disposicions > Departament de Recerca i Universitats > Agència de Gestió d'Ajuts Universitaris i de Recerca"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058647&type=01&language=ca_ES",
-   "Altres disposicions > Departament d'Empresa i Treball > Servei Públic d'Ocupació de Catalunya"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058811&type=01&language=ca_ES",
+   "Altres disposicions > Departament de Recerca i Universitats > Agència de Gestió d'Ajuts Universitaris i de Recerca"
   ],
   [
-   "Resolució ARP/4043/2026, de 4 de novembre, per la qual s'aprova la Carta base de serveis d'atenció ciutadana de les oficines comarcals del Departament d'Agricultura, Ramaderia, Pesca i Alimentació",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058666",
+   "Resolució ARP/4059/2026, de 30 d'octubre, per la qual s'amplia el crèdit pressupostari de la convocatòria dels ajuts a la recuperació de la productivitat derivada de les bases reguladores dels ajuts a les explotacions ramaderes de boví afectades per la tuberculosi, convocats mitjançant la Resolució ARP/2983/2026, de 7 d'agost (codi BDNS 925200)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058860",
    "Altres disposicions > Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058666&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058860&type=01&language=ca_ES",
    "Altres disposicions > Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
   ],
   [
-   "Resolució CLT/3941/2026, de 23 d'octubre, per la qual s'incoa expedient de delimitació de l'entorn de protecció de la Torre de la Carrova, a Amposta (Montsià)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058674",
+   "Correcció d'errades a la Resolució CLT/2801/2026, de 31 de juliol, de modificació de la Resolució CLT/3595/2021, d'1 de desembre, de delegació de competències de la persona titular del Departament de Cultura en diversos òrgans del departament (DOGC núm. 9723, de 5.8.2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058786",
    "Altres disposicions > Departament de Cultura"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058674&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058786&type=01&language=ca_ES",
    "Altres disposicions > Departament de Cultura"
   ],
   [
-   "Resolució CLT/4022/2026, de 29 d'octubre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural d'ampliació de la dotació pressupostària de la convocatòria per a la concessió de subvencions, en règim de concurrència competitiva, per a activitats culturals relacionades amb la cultura popular i tradicional i amb l'associacionisme per a l'any 2026 (ref. BDNS 899435)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058720",
+   "Resolució CLT/4045/2026, de 30 d'octubre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural de tercera ampliació de la dotació pressupostària de la convocatòria per a la concessió de subvencions, en règim de concurrència no competitiva, a editorials per a la traducció al català o a l'occità d'obres literàries per a l'any 2026 (ref. BDNS 872226)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058843",
    "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058720&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058843&type=01&language=ca_ES",
    "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
   ],
   [
-   "Resolució CLT/4023/2026, de 2 de novembre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural pel qual s'aproven les bases específiques que han de regir la concessió de subvencions per a la creació i la producció d'espectacles literaris",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058659",
-   "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058659&type=01&language=ca_ES",
-   "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
-  ],
-  [
-   "Resolució CLT/4046/2026, de 29 d'octubre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural d'ampliació de la dotació pressupostària de la convocatòria per a la concessió de subvencions, en règim de concurrència competitiva, per a l'organització de festivals i cicles de cultura popular i tradicional per a l'any 2026 (ref. BDNS 912955)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058662",
+   "Resolució CLT/4060/2026, de 30 d'octubre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural de segona ampliació de la dotació pressupostària de la convocatòria per a la concessió de subvencions, en règim de concurrència no competitiva, per a la programació d'activitats culturals de caràcter professional, en municipis de fins a 1.000 habitants per al trienni 2026-2028 (ref. BDNS 912921)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058785",
    "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058662&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058785&type=01&language=ca_ES",
    "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
   ],
   [
-   "Resolució CLT/4047/2026, de 2 de novembre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural pel qual s'aproven les bases específiques que han de regir la concessió de subvencions per a l'adquisició de fons bibliogràfics o documentals destinats a biblioteques del Sistema de Lectura Pública de Catalunya en fires o mercats especialitzats",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058657",
-   "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
+   "Resolució CLT/4024/2026, de 2 de novembre, per la qual es modifica la dotació de la convocatòria per a la concessió de subvencions, en règim de concurrència competitiva, a l'emprenedoria cultural (ref. BDNS 897942)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058780",
+   "Altres disposicions > Departament de Cultura > Institut Català de les Empreses Culturals"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058657&type=01&language=ca_ES",
-   "Altres disposicions > Departament de Cultura > Oficina de Suport a la Iniciativa Cultural"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058780&type=01&language=ca_ES",
+   "Altres disposicions > Departament de Cultura > Institut Català de les Empreses Culturals"
   ],
   [
-   "Resolució PRE/4037/2026, de 29 d'octubre, per la qual es modifica l'agrupació dels municipis dels Prats de Rei, Sant Pere Sallavinera i Sant Martí Sesgueioles, que resta constituïda pels municipis dels Prats de Rei i Sant Pere Sallavinera, per al manteniment en comú d'un lloc de treball de secretaria de classe tercera, reservat a personal funcionari d'Administració local amb habilitació de caràcter nacional de la subescala de secretaria intervenció",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058699",
+   "Resolució PLG/4042/2026, de 30 d'octubre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural de tercera ampliació de la dotació pressupostària de la convocatòria per a la concessió de subvencions, en règim de concurrència no competitiva, per al doblatge i la subtitulació en català de llargmetratges d'estrena en sales d'exhibició cinematogràfica per a l'any 2026 (ref. BDNS 886528)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058772",
+   "Altres disposicions > Departament de Política Lingüística"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058772&type=01&language=ca_ES",
+   "Altres disposicions > Departament de Política Lingüística"
+  ],
+  [
+   "Resolució PLG/4048/2026, de 30 d'octubre, per la qual es dona publicitat a l'Acord del Consell d'Administració de l'Oficina de Suport a la Iniciativa Cultural de segona ampliació de la dotació pressupostària de la convocatòria per a la concessió de subvencions, en règim de concurrència no competitiva, per a la incorporació del català, l'occità i la llengua de signes catalana en llargmetratges i sèries per a plataformes digitals per a l'any 2026 (ref. BDNS 897839)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058808",
+   "Altres disposicions > Departament de Política Lingüística"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058808&type=01&language=ca_ES",
+   "Altres disposicions > Departament de Política Lingüística"
+  ],
+  [
+   "Decret 206/2026, de 3 de novembre, d'encàrrec del despatx del conseller d'Unió Europea i Acció Exterior al conseller de la Presidència des del dia 10 fins al dia 12 de novembre de 2026, mentre romangui fora de Catalunya",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058807",
    "Càrrecs i personal > Departament de la Presidència"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058699&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058807&type=01&language=ca_ES",
    "Càrrecs i personal > Departament de la Presidència"
   ],
   [
-   "Resolució PRE/4051/2026, de 5 de novembre, per la qual s'aprova la llista provisional de persones aspirants admeses i excloses de la convocatòria del procés selectiu per proveir 32 places del cos d'advocacia (subgrup A1) de la Generalitat de Catalunya (núm. de registre de la convocatòria 908)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058680",
+   "Resolució PRE/4052/2026, de 4 de novembre, per la qual es fa pública la convocatòria de la Diputació de Girona per proveir, pel sistema de lliure designació, el lloc de treball de secretaria general de classe primera, reservat a personal funcionari d'Administració local amb habilitació de caràcter nacional de la subescala secretaria, categoria superior",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058837",
    "Càrrecs i personal > Departament de la Presidència"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058680&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058837&type=01&language=ca_ES",
    "Càrrecs i personal > Departament de la Presidència"
   ],
   [
-   "Resolució SLT/4039/2026, de 29 d'octubre, per la qual es resol la convocatòria per a la provisió, pel sistema de concurs específic, de tres llocs de comandament i d'un lloc singular de la Secretaria de Salut Pública del Departament de Salut (convocatòria de provisió núm. SA/007/26)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058705",
-   "Càrrecs i personal > Departament de Salut"
+   "Resolució PRE/4062/2026, de 2 de novembre, per la qual es resol la convocatòria de provisió, pel sistema de lliure designació, d'un lloc de treball de comandament de la Direcció General de Mitjans de Comunicació del Departament de la Presidència (convocatòria de provisió núm. PRE/40/26)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058824",
+   "Càrrecs i personal > Departament de la Presidència"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058705&type=01&language=ca_ES",
-   "Càrrecs i personal > Departament de Salut"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058824&type=01&language=ca_ES",
+   "Càrrecs i personal > Departament de la Presidència"
   ],
   [
-   "Resolució SLT/4049/2026, de 4 de novembre, de modificació de la Resolució SLT/3618/2026, de 8 d'octubre, per la qual es fa pública la composició nominal dels tribunals previstos a la base 6.1 de la Resolució SLT/2374/2025, de 20 de juny, de convocatòria per a la provisió de llocs vacants de facultatiu/iva especialista en els serveis jerarquitzats de l'Hospital de Viladecans de l'Institut Català de la Salut (codi identificació convocatòria H6-2025)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058684",
-   "Càrrecs i personal > Departament de Salut > Institut Català de la Salut"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058684&type=01&language=ca_ES",
-   "Càrrecs i personal > Departament de Salut > Institut Català de la Salut"
-  ],
-  [
-   "Resolució EDF/4040/2026, de 3 de novembre, de novena modificació de la Resolució EDU/2197/2023, de 19 de juny, per la qual es fan públiques les llistes de persones aspirants seleccionades en el concurs excepcional de mèrits per a l'ingrés a la funció pública docent, convocat per la Resolució EDU/2563/2022, de 16 d'agost",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058678",
-   "Càrrecs i personal > Departament d'Educació i Formació Professional"
+   "Resolució PRE/4053/2026, de 4 de novembre, complementària de la Resolució PRE/2483/2026, de 15 de juliol, d'integració del personal funcionari de carrera del cos superior d'administració de la Generalitat de Catalunya en l'escala d'estadística i d'anàlisi d'aquest mateix cos (grup A, subgrup A1)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058850",
+   "Càrrecs i personal > Departament de la Presidència > Escola d'Administració Pública de Catalunya"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058678&type=01&language=ca_ES",
-   "Càrrecs i personal > Departament d'Educació i Formació Professional"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058850&type=01&language=ca_ES",
+   "Càrrecs i personal > Departament de la Presidència > Escola d'Administració Pública de Catalunya"
   ],
   [
-   "Resolució EDF/4041/2026, de 3 de novembre, de convocatòria de concurs específic de mèrits i capacitats per a la provisió de tres llocs de treball de comandament del Departament d'Educació i Formació Professional (convocatòria de provisió núm. EDF/164/26)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058712",
-   "Càrrecs i personal > Departament d'Educació i Formació Professional"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058712&type=01&language=ca_ES",
-   "Càrrecs i personal > Departament d'Educació i Formació Professional"
-  ],
-  [
-   "Resolució per la qual es convoquen proves selectives per a l'accés a l'escala de gestió, grup A, subgrup A2, en règim de concurs oposició, en torn de promoció interna, per proveir el lloc de treball de tècnic/a d'impuls de l'R+D+I, amb destinació a l'Oficina Tècnica de Recerca i Transferència de la Universitat de Girona (referència de la convocatòria PF-CO-04/26)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058667",
-   "Càrrecs i personal > Universitats catalanes > Universitat de Girona"
+   "Resolució TER/4054/2026, de 4 de novembre, per la qual es resol la convocatòria per a la provisió, pel sistema de lliure designació, d'un lloc de treball de comandament dels Serveis Territorials a les Terres de l'Ebre del Departament de Territori, Habitatge i Transició Ecològica (convocatòria de provisió núm. TER/29/26)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058805",
+   "Càrrecs i personal > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058667&type=01&language=ca_ES",
-   "Càrrecs i personal > Universitats catalanes > Universitat de Girona"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058805&type=01&language=ca_ES",
+   "Càrrecs i personal > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
-   "Resolució de 2 de novembre de 2026, per la qual es nomena una professora titular d'universitat (DF000859 - Departament de Ciències Mèdiques Bàsiques)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058687",
+   "Resolució REU/4057/2026, de 4 de novembre, d'adaptació de diversos nomenaments a la nova estructura del Departament de Recerca i Universitats",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058812",
+   "Càrrecs i personal > Departament de Recerca i Universitats"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058812&type=01&language=ca_ES",
+   "Càrrecs i personal > Departament de Recerca i Universitats"
+  ],
+  [
+   "Resolució de 30 d'octubre de 2026, de proves selectives per a l'ingrés a l'escala de gestió de la Universitat Rovira i Virgili, mitjançant el sistema de concurs oposició, en torn de promoció interna (codi de la convocatòria FC26B2421)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058829",
    "Càrrecs i personal > Universitats catalanes > Universitat Rovira i Virgili"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058687&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058829&type=01&language=ca_ES",
    "Càrrecs i personal > Universitats catalanes > Universitat Rovira i Virgili"
   ],
   [
-   "Resolució de 2 de novembre de 2026, per la qual es nomena una professora titular d'universitat (DF000865 - Departament de Medicina i Cirurgia)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058692",
+   "Resolució de 30 d'octubre de 2026, de proves selectives per a l'ingrés a l'escala de gestió de la Universitat Rovira i Virgili, mitjançant el sistema de concurs oposició en torn lliure (codi de la convocatòria FC26B2419)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058776",
    "Càrrecs i personal > Universitats catalanes > Universitat Rovira i Virgili"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058692&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058776&type=01&language=ca_ES",
    "Càrrecs i personal > Universitats catalanes > Universitat Rovira i Virgili"
   ],
   [
-   "Anunci de notificació en procediment pel qual se citen a termini les persones interessades en el procediment laboral núm. 559/2026, que se segueix davant la Secció Social del Tribunal d'Instància de Barcelona, plaça 25",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058670",
-   "Anuncis > Departament d'Interior i Seguretat Pública"
+   "Resolució de 30 d'octubre de 2026, de proves selectives per a l'ingrés a l'escala de gestió de la Universitat Rovira i Virgili, mitjançant el sistema de concurs oposició en torn lliure (codi de la convocatòria FC26B2420)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058806",
+   "Càrrecs i personal > Universitats catalanes > Universitat Rovira i Virgili"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058670&type=01&language=ca_ES",
-   "Anuncis > Departament d'Interior i Seguretat Pública"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058806&type=01&language=ca_ES",
+   "Càrrecs i personal > Universitats catalanes > Universitat Rovira i Virgili"
   ],
   [
-   "Resolució TER/3987/2026, de 2 de novembre, per la qual s'atorguen a l'empresa Nedgia Catalunya, SA, l'autorització administrativa i l'aprovació del projecte executiu de transformació a gas natural a una pressió màxima d'operació (MOP) de 0,15 bar de les instal·lacions existents subministrades amb gas liquat del petroli (GLP) i desmantellament de la planta GLP-128-08, al terme municipal de Torrelles de Llobregat (exp. FUE-2025-04852549)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058655",
+   "Resolució TER/3988/2026, de 14 de setembre, per la qual s'atorga l'autorització ambiental amb declaració d'impacte ambiental a Explotació Ramadera Morreres, SCP, per a una activitat ramadera porcina, al terme municipal de Soses (exp. L1CS190650)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058791",
    "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058655&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058791&type=01&language=ca_ES",
    "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
-   "Resolució TER/4029/2026, de 29 d'octubre, per la qual s'atorga a Energía Inagotable de Carna, SL, l'autorització administrativa prèvia i de construcció del projecte de la planta solar fotovoltaica anomenada PSF Carna, de 10,038 MW de potència instal·lada sobre terreny en sòl no urbanitzable, als termes municipals de Nalec, Verdú i Ciutadilla, i la seva infraestructura d'evacuació, als termes municipals de Nalec, Verdú, Ciutadilla i Vallbona de les Monges, a la comarca de l'Urgell, i l'Espluga de Francolí, a la comarca de la Conca de Barberà (exp. FUE-2023-03149678)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058685",
-   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058685&type=01&language=ca_ES",
-   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
-  ],
-  [
-   "Edicte de 30 d'octubre de 2026, pel qual es dona publicitat a la resolució que assenyala dies per a la redacció de les actes prèvies a l'ocupació de les finques afectades d'expropiació per l'execució del Projecte PCCL16029AA, \"Execució de vorera de vianants i adequació d'ampit a la C-1412b al PK 58+970. Tremp\", dels termes municipals de Talarn i Tremp",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058689",
+   "Resolució TER/3989/2026, de 30 de setembre, per la qual s'atorga l'autorització ambiental amb declaració d'impacte ambiental d'una modificació substancial a Laseuporc, SL, per a una activitat ramadera porcina, al terme municipal de Ribera d'Urgellet (exp. L1CS220342)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058828",
    "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058689&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058828&type=01&language=ca_ES",
    "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
-   "Edicte de 30 d'octubre de 2026, pel qual es dona publicitat a la resolució que assenyala dies per a la redacció de les actes prèvies a l'ocupació de les finques afectades d'expropiació per l'execució del Projecte MT15024C1, \"Nova rotonda a la C-31 al PK 145+620 amb el carrer Santa Coloma. Cunit\", del terme municipal de Cunit",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058651",
+   "Resolució TER/3990/2026, de 30 de setembre, per la qual s'atorga l'autorització ambiental amb declaració d'impacte ambiental per a una activitat ramadera avícola, al terme municipal de Biosca (exp. L1AAI230502)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058794",
    "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058651&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058794&type=01&language=ca_ES",
    "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
-   "Anunci d'informació pública (ref. FUE-2025-04463749)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058722",
-   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Agència Catalana de l'Aigua"
+   "Resolució TER/3991/2026, de 30 de setembre, per la qual s'atorga l'autorització ambiental amb declaració d'impacte ambiental a Ganados Gili, SA, per a una activitat ramadera porcina, al terme municipal de Llardecans (exp. L1AAI230458)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058818",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058722&type=01&language=ca_ES",
-   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Agència Catalana de l'Aigua"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058818&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
-   "Resolució EMT/3963/2026, de 28 d'octubre, per la qual es dona publicitat a addendes de modificació subscrites per l'Agència Catalana del Consum amb consells comarcals d'acord amb els convenis de coordinació d'actuacions formalitzats en matèria de consum",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058709",
-   "Anuncis > Departament d'Empresa i Treball > Agència Catalana del Consum"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058709&type=01&language=ca_ES",
-   "Anuncis > Departament d'Empresa i Treball > Agència Catalana del Consum"
-  ],
-  [
-   "Resolució EMT/3736/2026, de 15 d'octubre, per la qual s'estableixen els requisits i el procediment per a l'acreditació de les xarxes d'inversors privats en el marc dels programes d'ACCIÓ per al període 2027-2029, i s'obre la convocatòria per al període 2027-2029",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058648",
-   "Anuncis > Departament d'Empresa i Treball > Agència per a la Competitivitat de l'Empresa"
+   "Resolució TER/3992/2026, de 30 de setembre, per la qual s'atorga l'autorització ambiental amb declaració d'impacte ambiental d'una modificació substancial a l'empresa Matges Dolcet, SL, per a una activitat ramadera porcina, al terme municipal d'Alcarràs (exp. L1CS190586)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058797",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058648&type=01&language=ca_ES",
-   "Anuncis > Departament d'Empresa i Treball > Agència per a la Competitivitat de l'Empresa"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058797&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
   ],
   [
-   "Resolució ARP/4030/2026, de 3 de novembre, per la qual se sotmet a informació pública la relació dels béns i els drets afectats per l'execució de les obres del Projecte de construcció de dues basses i la xarxa de reg a pressió de la Comunitat de Regants de la Serra, als termes municipals d'Alcover i Valls (exp. 0193000392024)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058669",
+   "Resolució TER/3993/2026, de 30 de setembre, per la qual es renova l'autorització ambiental LAAD070040 de l'empresa Grupo Clemente Aluminio, SL, i s'hi incorpora una modificació no substancial, per a l'activitat de recuperació d'alumini mitjançant fusió de metalls no ferrosos, incloent-hi l'aliatge, al terme municipal de Seròs (exp. L1RA200007)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058827",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058827&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Resolució TER/4009/2026, de 30 de setembre, per la qual s'atorga l'autorització ambiental amb declaració d'impacte ambiental a l'empresa Avicola Akce, SL, per a una activitat ramadera avícola, al terme municipal de Miralcamp (exp. L1AAI220423)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058796",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058796&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Resolució TER/4011/2026, de 29 d'octubre, per la qual s'atorga a l'empresa Edistribución Redes Digitales, SLU, l'autorització administrativa prèvia corresponent a l'avantprojecte de la línia d'alta tensió, simple circuit, a 110 kV en suports doble circuit de la SE Santa Margarida a la SE Pierola, als termes municipals de Santa Margarida de Montbui, Vilanova del Camí, la Pobla de Claramunt, Piera, els Hostalets de Pierola i Masquefa (exp. FUE-2024-04191600)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058784",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058784&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Resolució TER/4012/2026, de 28 d'octubre, per la qual s'atorga a l'empresa Edistribución Redes Digitales, SLU, l'autorització administrativa prèvia corresponent a l'avantprojecte d'adequació de la línia d'alta tensió a 110 kV SE Santa Margarida - SE Cervera, tram 2 del doble circuit a 110 kV Montroig-Margarida i Cervera-Margarida, als termes municipals de Santa Margarida de Montbui, Sant Martí de Tous, Argençola i Montmaneu (Anoia), i Cervera i Ribera d'Ondara (Segarra) (exp. FUE-2024-04196647)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058809",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058809&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Resolució TER/4013/2026, de 3 de novembre, per la qual es formula la declaració ambiental estratègica del Pla especial urbanístic PE-61 d'ordenació de la masia i el magatzem celler, dels murs de contenció i moviments de terres a can Soler, al terme municipal de Mataró (exp. OTAABA20240201)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058777",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058777&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Resolució TER/4014/2026, de 3 de novembre, per la qual s'emet la declaració ambiental estratègica del Pla especial urbanístic - Catàleg de masies i cases rurals al terme municipal de Sant Miquel de Campmajor (exp. OTAAGI20230024)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058810",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058810&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Anunci d'informació pública sobre la sol·licitud d'autorització administrativa prèvia i autorització administrativa de construcció corresponent al projecte d'execució per a l'ampliació de potència i tensió amb un nou parc de 132 kV i nova posició de transformador TR-3 132/40/21,5 kV a l'estació receptora 1019 Ametlla, al terme municipal de la Garriga (exp. FUE-2026-05472311)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058815",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058815&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Anunci pel qual se sotmet a informació pública la sol·licitud d'autorització administrativa prèvia, de construcció, avaluació d'impacte ambiental i autorització del projecte d'actuació específica d'interès públic en sòl no urbanitzable del projecte d'ampliació per hibridació de la planta solar fotovoltaica de 25 MW Les Canaletes, amb una planta d'emmagatzematge de 15 MW, al terme municipal de Tàrrega, a la comarca de l'Urgell (exp. FUE-2025-04962745, ref. 02463 - Fase 2)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058781",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058781&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Anunci sobre un acord de la Comissió de Territori de Catalunya referent al Pla director urbanístic Porta Diagonal - Campus Clínic, als municipis de Barcelona, Esplugues de Llobregat i l'Hospitalet de Llobregat",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058792",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058792&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica"
+  ],
+  [
+   "Anunci de convocatòria del procediment d'adjudicació directa d'un lot de béns declarats en situació legal d'abandonament al port de Mataró (exp. EXEC. ABN-0005/25)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058842",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Ports de la Generalitat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058842&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Ports de la Generalitat"
+  ],
+  [
+   "Anunci d'informació pública del Pla de recepció i manipulació de residus de Marina Port Premià",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058831",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Ports de la Generalitat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058831&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Ports de la Generalitat"
+  ],
+  [
+   "Anunci sobre signatura d'una addenda al Conveni de col·laboració formalitzat entre l'Institut Català del Sòl, l'Agència de l'Habitatge de Catalunya i l'Ajuntament d'Olesa de Montserrat (exp. 610/2020)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058769",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Institut Català del Sòl"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058769&type=01&language=ca_ES",
+   "Anuncis > Departament de Territori, Habitatge i Transició Ecològica > Institut Català del Sòl"
+  ],
+  [
+   "Edicte de 3 de novembre de 2026, pel qual se sotmet a informació pública el Projecte de decret d'ordenació dels ensenyaments de l'educació secundària obligatòria per a persones adultes, en tràmit al Departament d'Educació i Formació Professional",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058835",
+   "Anuncis > Departament d'Educació i Formació Professional"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058835&type=01&language=ca_ES",
+   "Anuncis > Departament d'Educació i Formació Professional"
+  ],
+  [
+   "Resolució EMT/4010/2026, de 16 d'octubre, per la qual s'inscriu l'Àrea de Promoció Econòmica Urbana (APEU) El Portús Shopping Village en el Registre de les àrees de promoció econòmica urbana de Catalunya",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058840",
+   "Anuncis > Departament d'Empresa i Treball"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058840&type=01&language=ca_ES",
+   "Anuncis > Departament d'Empresa i Treball"
+  ],
+  [
+   "Edicte de 29 d'octubre de 2026, pel qual se sotmeten a informació pública els expedients de modificació dels límits de les àrees privades de caça L-10316, L-10213, L-10303 i L-10121",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058803",
    "Anuncis > Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058669&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058803&type=01&language=ca_ES",
    "Anuncis > Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
   ],
   [
-   "Anunci sobre convocatòria del procés selectiu mitjançant concurs oposició per proveir una plaça de vigilant municipal / agutzil, en règim de personal funcionari de carrera, i constituir una borsa de treball",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058719",
-   "Administració local > Ajuntaments > Ajuntament d'Alfarràs"
+   "Anunci pel qual es fan públiques les actuacions cofinançades pel Fons Europeu de Desenvolupament Regional (FEDER) de la Unió Europea, en el marc del Programa FEDER de Catalunya 2021-2027",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058793",
+   "Anuncis > Altres ens > Forestal Catalana, SA"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058719&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament d'Alfarràs"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058793&type=01&language=ca_ES",
+   "Anuncis > Altres ens > Forestal Catalana, SA"
   ],
   [
-   "Edicte sobre modificació de la relació i valoració de llocs de treball de l'Ajuntament d'Altafulla",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058676",
-   "Administració local > Ajuntaments > Ajuntament d'Altafulla"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058676&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament d'Altafulla"
-  ],
-  [
-   "Edicte relatiu al Conveni de col·laboració entre l'Ajuntament d'Altafulla i el Consell Comarcal del Tarragonès en matèria de promoció de la igualtat i el feminisme",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058661",
-   "Administració local > Ajuntaments > Ajuntament d'Altafulla"
+   "Anunci sobre rectificació de les bases del procés selectiu d'un lloc de tècnic/a d'esports",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058857",
+   "Administració local > Ajuntaments > Ajuntament d'Abrera"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058661&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament d'Altafulla"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058857&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament d'Abrera"
   ],
   [
-   "Edicte sobre el Conveni de col·laboració per a la continuïtat dels programes de joventut per a l'any 2026 entre l'Ajuntament d'Altafulla i el Consell Comarcal del Tarragonès",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058686",
-   "Administració local > Ajuntaments > Ajuntament d'Altafulla"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058686&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament d'Altafulla"
-  ],
-  [
-   "Edicte sobre la relació de contractacions temporals i nomenaments interins des del dia 1 de juny fins al dia 30 de setembre de 2026 de l'Ajuntament d'Argentona",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058652",
-   "Administració local > Ajuntaments > Ajuntament d'Argentona"
+   "Anunci sobre aprovació definitiva del Projecte tècnic per a la implantació d'una estació de recàrrega ràpida de 60 kW per a vehicles elèctrics a l'Aldea",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058770",
+   "Administració local > Ajuntaments > Ajuntament de l'Aldea"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058652&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament d'Argentona"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058770&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de l'Aldea"
   ],
   [
-   "Anunci sobre aprovació de l'oferta pública d'ocupació per a l'any 2026 de l'Ajuntament de Begues (exp. 1454-4562-2026)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058691",
-   "Administració local > Ajuntaments > Ajuntament de Begues"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058691&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Begues"
-  ],
-  [
-   "Anunci sobre aprovació definitiva de la modificació de la plantilla de personal de l'any 2026",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058716",
-   "Administració local > Ajuntaments > Ajuntament de la Bisbal del Penedès"
+   "Anunci sobre aprovació definitiva del Projecte de dotació de serveis a la parcel·la núm. 4.3 del sector d'activitat econòmica Catalunya Sud",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058844",
+   "Administració local > Ajuntaments > Ajuntament de l'Aldea"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058716&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de la Bisbal del Penedès"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058844&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de l'Aldea"
+  ],
+  [
+   "Anunci relatiu a la constitució d'una borsa d'operaris/àries de brigada i personal de neteja",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058773",
+   "Administració local > Ajuntaments > Ajuntament de l'Ametlla de Mar"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058773&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de l'Ametlla de Mar"
+  ],
+  [
+   "Anunci relatiu a les bases per a la provisió de sis places d'agent de la Policia Local",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058783",
+   "Administració local > Ajuntaments > Ajuntament de l'Ametlla de Mar"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058783&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de l'Ametlla de Mar"
+  ],
+  [
+   "Anunci sobre aprovació de les bases i la convocatòria per a la selecció, per tramitació urgent, pel sistema de concurs oposició lliure, d'un/a tècnic/a d'administració especial del grup A2, i la constitució d'una borsa de treball",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058853",
+   "Administració local > Ajuntaments > Ajuntament d'Ascó"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058853&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament d'Ascó"
+  ],
+  [
+   "Anunci sobre aprovació de les bases específiques i la convocatòria del procés de provisió del lloc de treball de cap del Departament de Protocol i Relacions Institucionals, mitjançant mobilitat interadministrativa, pel sistema de concurs de mèrits",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058834",
+   "Administració local > Ajuntaments > Ajuntament de Badalona"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058834&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Badalona"
+  ],
+  [
+   "Anunci sobre aprovació de les bases específiques i la convocatòria del procés de provisió del lloc de treball de cap del Departament d'Equipaments Educatius, pel sistema de concurs de mèrits",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058836",
+   "Administració local > Ajuntaments > Ajuntament de Badalona"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058836&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Badalona"
+  ],
+  [
+   "Anunci sobre aprovació definitiva de la modificació de l'article 2 del Reglament de teletreball",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058848",
+   "Administració local > Ajuntaments > Ajuntament de Cabrils"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058848&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Cabrils"
+  ],
+  [
+   "Anunci sobre aprovació definitiva de la supressió del servei d'estacionament d'autocaravanes de Castell d'Aro, Platja d'Aro i s'Agaró (exp. GENE2020004812 - X2020004919)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058822",
+   "Administració local > Ajuntaments > Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058822&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró"
+  ],
+  [
+   "Edicte sobre aprovació inicial del Reglament del Consell Escolar Municipal de Castellbisbal (ref. 2026/1/GFA)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058778",
+   "Administració local > Ajuntaments > Ajuntament de Castellbisbal"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058778&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Castellbisbal"
   ],
   [
    "Edicte sobre aprovació definitiva de les cartes de serveis del Servei de Comunicació, de l'Oficina d'Atenció Ciutadana i la modificació de la carta de serveis del Servei d'Arxiu i Gestió Documental",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058695",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058859",
    "Administració local > Ajuntaments > Ajuntament de Castellbisbal"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058695&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058859&type=01&language=ca_ES",
    "Administració local > Ajuntaments > Ajuntament de Castellbisbal"
   ],
   [
-   "Anunci sobre aprovació de les bases i la convocatòria del procés selectiu, mitjançant concurs oposició en torn lliure, d'una plaça de vigilant municipal, com a funcionari/ària de carrera, inclosa en l'oferta pública d'ocupació de l'any 2025",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058688",
-   "Administració local > Ajuntaments > Ajuntament de l'Espluga de Francolí"
+   "Edicte sobre aprovació de la convocatòria i les bases reguladores del procés de selecció, pel sistema de concurs oposició i mitjançant promoció interna, d'una plaça de l'escala d'administració general, subescala administrativa, subgrup C1",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058832",
+   "Administració local > Ajuntaments > Ajuntament de Cervelló"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058688&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de l'Espluga de Francolí"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058832&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Cervelló"
   ],
   [
-   "Anunci sobre nomenament d'un funcionari interí per raó de màxima urgència",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058707",
-   "Administració local > Ajuntaments > Ajuntament de Forallac"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058707&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Forallac"
-  ],
-  [
-   "Anunci sobre aprovació inicial de la modificació de les bases reguladores per a la concessió de subvencions, ajuts o beques a esportistes destacats de la Llagosta participants en campionats nacionals i/o internacionals",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058721",
-   "Administració local > Ajuntaments > Ajuntament de la Llagosta"
+   "Anunci sobre aprovació de les bases i la convocatòria del procés selectiu per a la provisió d'una plaça d'auxiliar administratiu/iva",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058838",
+   "Administració local > Ajuntaments > Ajuntament d'Espot"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058721&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de la Llagosta"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058838&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament d'Espot"
   ],
   [
-   "Anunci sobre aprovació definitiva de l'Ordenança del paisatge",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058658",
-   "Administració local > Ajuntaments > Ajuntament de Lliçà d'Amunt"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058658&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Lliçà d'Amunt"
-  ],
-  [
-   "Edicte sobre aprovació de la convocatòria i les bases específiques del procés selectiu d'una plaça de conserge d'escola inclosa en l'oferta d'ocupació pública 2024, i la constitució d'una borsa de treball de conserges d'escola",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058706",
-   "Administració local > Ajuntaments > Ajuntament de Matadepera"
+   "Anunci relatiu a les bases reguladores per a la convocatòria del procés selectiu, mitjançant concurs oposició en torn lliure, per cobrir una plaça d'agutzil, subgrup AP, en règim de personal laboral, en la modalitat de contracte de relleu d'una jubilació parcial, i la constitució d'una borsa de treball",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058823",
+   "Administració local > Ajuntaments > Ajuntament de la Granja d'Escarp"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058706&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Matadepera"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058823&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de la Granja d'Escarp"
   ],
   [
-   "Anunci sobre modificació de la relació de llocs de treball de l'Ajuntament del Milà",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058696",
-   "Administració local > Ajuntaments > Ajuntament del Milà"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058696&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament del Milà"
-  ],
-  [
-   "Anunci sobre rectificació d'un error material en l'Acord d'aprovació de la modificació puntual de la relació de llocs de treball (RLT)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058683",
-   "Administració local > Ajuntaments > Ajuntament de Montseny"
+   "Edicte sobre aprovació de les bases i la convocatòria que han de regir el procés selectiu mitjançant concurs oposició lliure per a la constitució d'una borsa de treball de personal funcionari interí, per a la provisió temporal del lloc de treball de secretaria intervenció de l'Ajuntament de Maçanet de Cabrenys (exp. X2026000501)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058779",
+   "Administració local > Ajuntaments > Ajuntament de Maçanet de Cabrenys"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058683&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Montseny"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058779&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Maçanet de Cabrenys"
   ],
   [
-   "Anunci sobre aprovació definitiva del Projecte modificat núm. 2 d'urbanització del sector 27, Industrial Mas Reixac",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058679",
-   "Administració local > Ajuntaments > Ajuntament de Palafolls"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058679&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Palafolls"
-  ],
-  [
-   "Edicte sobre aprovació inicial del Projecte de renovació de la xarxa d'abastament de l'avinguda del Mediterrani, el carrer d'Astorga i el carrer de Frederic Urales - AT26181 (CONOBR 0326/2026)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058682",
-   "Administració local > Ajuntaments > Ajuntament de Reus"
+   "Edicte sobre la convocatòria i les bases que han de regular el procés selectiu per a la cobertura definitiva d'una plaça de mestre/a d'educació infantil, a adscriure al lloc de treball de cap de departament, director/a d'escola bressol - mestre/a d'educació infantil, pel sistema de concurs oposició en torn lliure, de l'Ajuntament de Palafrugell (exp. 10/2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058856",
+   "Administració local > Ajuntaments > Ajuntament de Palafrugell"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058682&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Reus"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058856&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Palafrugell"
   ],
   [
-   "Edicte sobre aprovació inicial del Projecte de substitució de l'enllumenat públic d'una part de la urbanització de Santa Margarida (quadre M6) (exp. 2026/002306)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058713",
-   "Administració local > Ajuntaments > Ajuntament de Roses"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058713&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Roses"
-  ],
-  [
-   "Edicte sobre aprovació inicial del Projecte d'urbanització de la finalització de l'avinguda de la Riera de la Cuana per donar accés a la parcel·la ubicada al núm. 52 del mateix carrer, d'iniciativa privada (exp. 2025/000370)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058694",
-   "Administració local > Ajuntaments > Ajuntament de Roses"
+   "Anunci sobre aprovació de la Memòria valorada de millora de diversos camins municipals (exp. X2026000147)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058858",
+   "Administració local > Ajuntaments > Ajuntament de Palau de Santa Eulàlia"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058694&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Roses"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058858&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Palau de Santa Eulàlia"
   ],
   [
-   "Edicte sobre aprovació definitiva del Projecte executiu de substitució del mur existent entre la ronda d'Oliana i el carrer de la Pera al barri de Torre-romeu",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058714",
+   "Anunci sobre convocatòria del procés selectiu d'una plaça de tècnic/a mitjà/ana, vinculada al lloc de treball de tècnic/a mitjà/ana de cultura",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058774",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058774&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Anunci sobre convocatòria del procés per a la selecció, com a funcionari/ària de carrera, de dues places d'educador/a (escola bressol), incloses en l'oferta pública d'ocupació de l'any 2023, en torn lliure i per concurs oposició",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058846",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058846&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Anunci sobre convocatòria del procés selectiu per a la cobertura laboral fixa d'una plaça de tècnic/a mitjà/ana, vinculada al lloc de treball d'educador/a social, en torn lliure, inclosa en l'oferta pública d'ocupació de l'any 2025, per concurs oposició",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058825",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058825&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Anunci sobre convocatòria del procés per a la selecció, com a funcionari/ària de carrera, d'una plaça de tècnic/a mitjà/ana vinculada al lloc de treball de tècnic/a mitjà/ana de turisme, en torn lliure i mitjançant concurs oposició",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058839",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058839&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Anunci sobre convocatòria del procés selectiu per a la selecció, com a funcionari/ària de carrera, de dues places de tècnic/a mitjà/ana vinculades al lloc de treball de tècnic/a mitjà/ana de comunicació, en torn lliure i per concurs oposició",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058855",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058855&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Anunci sobre convocatòria del procés per a la selecció, com a funcionari/ària de carrera, de set places de tècnic/a mitjà/ana, vinculades al lloc de treball d'educador/a social, incloses en l'oferta pública d'ocupació dels anys 2023, 2025 i 2026, en torn lliure i per concurs oposició",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058862",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058862&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament del Prat de Llobregat"
+  ],
+  [
+   "Edicte sobre aprovació inicial de la quarta modificació de les bases reguladores específiques de subvencions de concurrència competitiva dels departaments de Drets Socials i Serveis Comunitaris",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058813",
+   "Administració local > Ajuntaments > Ajuntament de Ripollet"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058813&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Ripollet"
+  ],
+  [
+   "Anunci sobre modificació de les bases per a la selecció, mitjançant concurs oposició en torn lliure, d'una plaça de tècnic/a auxiliar informàtic/a, grup C1, escala d'administració especial, subescala tècnica, en règim de personal funcionari de carrera, i la constitució d'una borsa de treball (sel. 25/2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058863",
+   "Administració local > Ajuntaments > Ajuntament de Rubí"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058863&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Rubí"
+  ],
+  [
+   "Anunci sobre aprovació de la relació provisional de persones aspirants admeses i excloses del concurs oposició per cobrir una plaça de tècnic/a superior en règim laboral fix, vinculada al lloc de treball de tècnic/a superior d'arxius (exp. RRH/2026/6414)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058801",
    "Administració local > Ajuntaments > Ajuntament de Sabadell"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058714&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058801&type=01&language=ca_ES",
    "Administració local > Ajuntaments > Ajuntament de Sabadell"
   ],
   [
-   "Edicte sobre aprovació definitiva del Projecte executiu de millores de seguretat als jardins d'Espronceda i Campoamor (jardí del sud)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058697",
+   "Anunci sobre aprovació de la relació provisional de persones aspirants admeses i excloses del concurs oposició per cobrir una plaça de tècnic/a auxiliar en règim laboral fix, vinculada al lloc de treball d'agent tributari/ària (exp. RRH/2026/6418)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058845",
    "Administració local > Ajuntaments > Ajuntament de Sabadell"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058697&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058845&type=01&language=ca_ES",
    "Administració local > Ajuntaments > Ajuntament de Sabadell"
   ],
   [
-   "Anunci relatiu a les bases reguladores del concurs oposició lliure per cobrir un lloc de treball de tècnic/a de transparència i participació ciutadana",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058702",
-   "Administració local > Ajuntaments > Ajuntament de Sant Andreu de Llavaneres"
+   "Edicte sobre publicació de la relació de llocs de treball (RLT) i del sistema de valoració de llocs de treball (VLT) del Patronat Municipal de Turisme de Salou",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058799",
+   "Administració local > Ajuntaments > Ajuntament de Salou"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058702&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Sant Andreu de Llavaneres"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058799&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Salou"
   ],
   [
-   "Anunci sobre aprovació inicial de la modificació de la plantilla de personal i la relació de llocs de treball (RLT) per a l'exercici 2026 (exp. 4334/2026)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058690",
-   "Administració local > Ajuntaments > Ajuntament de Sant Antoni de Vilamajor"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058690&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Sant Antoni de Vilamajor"
-  ],
-  [
-   "Edicte sobre aprovació de tres documents d'esmena d'errades integrants del projecte Separata del Projecte bàsic i executiu de reforma i ampliació de l'edifici del Monestir de Sant Feliu de Guíxols (exp. 67102026000005/aps)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058718",
-   "Administració local > Ajuntaments > Ajuntament de Sant Feliu de Guíxols"
+   "Anunci sobre la relació definitiva d'admesos i exclosos del procés selectiu per a la cobertura d'una plaça de tècnic/a mitjà/ana en treball social",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058833",
+   "Administració local > Ajuntaments > Ajuntament de Sant Fost de Campsentelles"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058718&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Sant Feliu de Guíxols"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058833&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Sant Fost de Campsentelles"
   ],
   [
-   "Anunci sobre aprovació inicial de la modificació de l'Ordenança municipal reguladora de la prestació patrimonial de caràcter públic no tributari del servei municipal d'abastament d'aigua per a l'exercici 2027",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058693",
-   "Administració local > Ajuntaments > Ajuntament de Sant Fruitós de Bages"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058693&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Sant Fruitós de Bages"
-  ],
-  [
-   "Anunci sobre rectificació d'error material en el nomenament d'una funcionària de carrera (exp. 10/2026/SQRRHH)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058715",
-   "Administració local > Ajuntaments > Ajuntament de Sant Quirze del Vallès"
+   "Anunci relatiu a l'oferta pública d'ocupació 2026 (exp. 712/2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058849",
+   "Administració local > Ajuntaments > Ajuntament de Seròs"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058715&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Sant Quirze del Vallès"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058849&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Seròs"
   ],
   [
-   "Anunci sobre bases i convocatòria del procés selectiu per a la constitució d'una borsa de treball temporal de tècnics/tècniques mitjans/anes de gestió, grup A2, adscrits/ites a l'àmbit de comunicació de l'Àrea de Serveis Generals",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058677",
-   "Administració local > Ajuntaments > Ajuntament de Santa Eulàlia de Ronçana"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058677&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Santa Eulàlia de Ronçana"
-  ],
-  [
-   "Edicte sobre aprovació del Reglament del Consell Municipal d'Infància i Adolescència de Sils (exp. X2026002137)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058654",
-   "Administració local > Ajuntaments > Ajuntament de Sils"
+   "Anunci sobre esmena de les bases i la convocatòria del procés selectiu d'operaris/àries de brigada d'obres, jardineria, cementiri i oficials/ales de jardineria (2956/2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058788",
+   "Administració local > Ajuntaments > Ajuntament de la Seu d'Urgell"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058654&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Sils"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058788&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de la Seu d'Urgell"
   ],
   [
-   "Anunci relatiu a un nomenament funcionarial en pràctiques de la categoria auxiliar administratiu/iva, C2",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058664",
-   "Administració local > Ajuntaments > Ajuntament de Tortosa"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058664&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Tortosa"
-  ],
-  [
-   "Anunci sobre aprovació provisional de la modificació de les bases per al concurs de Carnestoltes",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058708",
-   "Administració local > Ajuntaments > Ajuntament de Vallirana"
+   "Anunci relatiu a la convocatòria per a la contractació urgent i temporal d'una persona etòloga per al Centre d'Adopcions d'Animals Domèstics (CAAD) de l'Ajuntament de Terrassa",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058790",
+   "Administració local > Ajuntaments > Ajuntament de Terrassa"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058708&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Vallirana"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058790&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Terrassa"
   ],
   [
-   "Anunci sobre aprovació inicial del Reglament de funcionament del sistema intern d'alertes (exp. 848/2024/eAJT)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058698",
-   "Administració local > Ajuntaments > Ajuntament de Vilanova i la Geltrú"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058698&type=01&language=ca_ES",
-   "Administració local > Ajuntaments > Ajuntament de Vilanova i la Geltrú"
-  ],
-  [
-   "Anunci sobre publicació de les bases reguladores i la convocatòria de personal corresponents a l'oferta pública d'ocupació de l'any 2026",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058665",
-   "Administració local > Consells Comarcals > Consell Comarcal del Vallès Oriental"
+   "Edicte sobre modificació de la plantilla de personal per a l'any 2026 (exp. X2026006741)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058804",
+   "Administració local > Ajuntaments > Ajuntament de Torelló"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058665&type=01&language=ca_ES",
-   "Administració local > Consells Comarcals > Consell Comarcal del Vallès Oriental"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058804&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Torelló"
   ],
   [
-   "Anunci sobre acceptació de delegació de competències acordada per diversos ajuntaments",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058653",
-   "Administració local > Diputacions > Diputació de Girona"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058653&type=01&language=ca_ES",
-   "Administració local > Diputacions > Diputació de Girona"
-  ],
-  [
-   "Anunci sobre acceptació de delegació de competències, actualització i unificació de les delegacions i facultats inherents a l'exercici de les competències sancionadores i assabentat de les revocacions de les delegacions acordada per diversos ajuntaments",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058717",
-   "Administració local > Diputacions > Diputació de Girona"
+   "Anunci sobre convocatòria i bases del procés de promoció interna vertical, a través d'un procés de funcionarització, d'una plaça de tècnic/a superior de serveis econòmics (A1), mitjançant concurs oposició",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058789",
+   "Administració local > Ajuntaments > Ajuntament de la Vall de Boí"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058717&type=01&language=ca_ES",
-   "Administració local > Diputacions > Diputació de Girona"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058789&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de la Vall de Boí"
   ],
   [
-   "Anunci relatiu a l'addenda de pròrroga del Conveni de col·laboració entre el Col·legi de Registradors de la Propietat, Mercantils i de Béns Mobles d'Espanya i l'Organisme de Gestió Tributària de la Diputació de Barcelona",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058704",
-   "Administració local > Altres organismes > Organisme de Gestió Tributària de la Diputació de Barcelona"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058704&type=01&language=ca_ES",
-   "Administració local > Altres organismes > Organisme de Gestió Tributària de la Diputació de Barcelona"
-  ],
-  [
-   "Anunci sobre la relació provisional d'aspirants admesos i exclosos per proveir una plaça de cap d'informàtica, tècnic/a de grau mitjà (TIC-Sistemes), classificació A2-21",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058672",
-   "Administració local > Altres organismes > Serveis d'Aparcaments de Vilanova i la Geltrú, SAM"
+   "Anunci sobre aprovació definitiva de la modificació de l'Ordenança reguladora de la convivència ciutadana i del bon ús dels espais públics de Vilabella",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058864",
+   "Administració local > Ajuntaments > Ajuntament de Vilabella"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058672&type=01&language=ca_ES",
-   "Administració local > Altres organismes > Serveis d'Aparcaments de Vilanova i la Geltrú, SAM"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058864&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Vilabella"
   ],
   [
-   "Anunci sobre delegació de signatura de les actes d'expropiació en el gerent",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058703",
-   "Altres subjectes emissors > Consorci Urbanístic per al Desenvolupament de les Àrees Residencials Estratègiques l'Estrella i Sant Crist de Badalona"
+   "Anunci sobre aprovació definitiva del Reglament municipal del servei de taxis al municipi de Vilabella",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058847",
+   "Administració local > Ajuntaments > Ajuntament de Vilabella"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058703&type=01&language=ca_ES",
-   "Altres subjectes emissors > Consorci Urbanístic per al Desenvolupament de les Àrees Residencials Estratègiques l'Estrella i Sant Crist de Badalona"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058847&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Vilabella"
+  ],
+  [
+   "Edicte sobre aprovació de la modificació de la Resolució núm. 2026/5870, per la qual s'aproven la convocatòria i les bases reguladores del procés de selecció per a la cobertura definitiva d'una plaça de tècnic/a superior d'informàtica, subgrup A1, de la plantilla de personal funcionari de l'Ajuntament de Viladecans, mitjançant concurs oposició en torn lliure",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058802",
+   "Administració local > Ajuntaments > Ajuntament de Viladecans"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058802&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Viladecans"
+  ],
+  [
+   "Anunci sobre contractació de la concessió del servei d'atenció domiciliària (SAD) al municipi de Viladecans, mitjançant la modalitat contractual de concessió de serveis, amb la incorporació de mesures de foment de la contractació de persones amb dificultats particulars d'inserció al mercat laboral i de contractació pública sostenible (01/2026/C00021)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058841",
+   "Administració local > Ajuntaments > Ajuntament de Viladecans"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058841&type=01&language=ca_ES",
+   "Administració local > Ajuntaments > Ajuntament de Viladecans"
+  ],
+  [
+   "Anunci sobre nomenament d'una funcionària de carrera (Decret 2026-0577)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058820",
+   "Administració local > Consell General d'Aran"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058820&type=01&language=ca_ES",
+   "Administració local > Consell General d'Aran"
+  ],
+  [
+   "Anunci sobre nomenament d'una funcionària de carrera (Decret 2026-0585)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058826",
+   "Administració local > Consell General d'Aran"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058826&type=01&language=ca_ES",
+   "Administració local > Consell General d'Aran"
+  ],
+  [
+   "Anunci sobre retroacció de la tramitació i el nou sotmetiment a informació pública de la modificació de les Normes subsidiàries i complementàries de planejament d'Era Val d'Aran vigents als municipis de Canejan, Les, Bossòst, Vilamòs, Es Bòrdes i Vielha e Mijaran, relativa a la regulació dels usos i construccions admissibles en sòl no urbanitzable",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058782",
+   "Administració local > Consell General d'Aran"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058782&type=01&language=ca_ES",
+   "Administració local > Consell General d'Aran"
+  ],
+  [
+   "Edicte sobre aprovació del Conveni de cooperació educativa per a la realització de pràctiques acadèmiques externes curriculars de la Facultat de Dret (exp. 2025/525)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058821",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Empordà"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058821&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Empordà"
+  ],
+  [
+   "Anunci sobre informació pública en relació amb l'expedient d'aprovació inicial de la modificació de l'article 2 dels Estatuts de la societat Figueres de Serveis, SA (exp. 2026/1064)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058795",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Empordà"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058795&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Empordà"
+  ],
+  [
+   "Anunci sobre aprovació de les bases reguladores i la convocatòria del procés selectiu, mitjançant concurs oposició, per a la creació de vuit borses de treball",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058798",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Empordà"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058798&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Empordà"
+  ],
+  [
+   "Anunci sobre convocatòria i bases per a la selecció d'una borsa de treball de tècnics/tècniques a l'Àrea de Joventut, personal funcionari interí o laboral temporal per programes, mitjançant concurs oposició (exp. 1652/2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058816",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Urgell"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058816&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal de l'Alt Urgell"
+  ],
+  [
+   "Anunci sobre aprovació inicial de la modificació de les bases reguladores per a la concessió d'ajuts d'urgència social",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058854",
+   "Administració local > Consells Comarcals > Consell Comarcal de la Segarra"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058854&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal de la Segarra"
+  ],
+  [
+   "Anunci sobre bases específiques per a la creació d'una borsa de tècnics/tècniques mitjans/anes A2",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058800",
+   "Administració local > Consells Comarcals > Consell Comarcal del Baix Penedès"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058800&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal del Baix Penedès"
+  ],
+  [
+   "Edicte relatiu al cessament de personal eventual",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058852",
+   "Administració local > Consells Comarcals > Consell Comarcal del Gironès"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058852&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal del Gironès"
+  ],
+  [
+   "Anunci sobre convocatòria del procés selectiu, per concurs oposició, de personal laboral fix inicialment amb contracte de relleu per al lloc de treball de tècnic/a dinamitzador/a ocupacional, grup A1 (exp. 1223/2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058851",
+   "Administració local > Consells Comarcals > Consell Comarcal del Pallars Jussà"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058851&type=01&language=ca_ES",
+   "Administració local > Consells Comarcals > Consell Comarcal del Pallars Jussà"
+  ],
+  [
+   "Anunci sobre aprovació inicial de la modificació dels Estatuts de la Mancomunitat",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058814",
+   "Administració local > Altres organismes > Mancomunitat Intermunicipal d'Aigües i Serveis del Baix Empordà"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058814&type=01&language=ca_ES",
+   "Administració local > Altres organismes > Mancomunitat Intermunicipal d'Aigües i Serveis del Baix Empordà"
+  ],
+  [
+   "Anunci sobre convocatòria del concurs de mèrits per a la provisió, en règim de contractació laboral, de cinc llocs de treball de l'oferta pública d'ocupació (taxa específica 2022, taxa específica 2024 i taxa ordinària 2024) corresponents a les posicions que van quedar sense cobrir en processos anteriors a causa de renúncies o per haver quedat deserts",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058865",
+   "Altres subjectes emissors > Consorci Mar Parc de Salut de Barcelona"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058865&type=01&language=ca_ES",
+   "Altres subjectes emissors > Consorci Mar Parc de Salut de Barcelona"
+  ],
+  [
+   "Anunci relatiu a la modificació de les taules retributives del Consorci de Biblioteques de Barcelona, respecte al complement de productivitat i la determinació del règim aplicable al personal adscrit de l'Ajuntament de Barcelona",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058787",
+   "Altres subjectes emissors > Consorci de Biblioteques de Barcelona"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058787&type=01&language=ca_ES",
+   "Altres subjectes emissors > Consorci de Biblioteques de Barcelona"
+  ],
+  [
+   "Anunci relatiu a la regularització de l'oferta pública d'ocupació de determinades places de personal de la categoria de personal de suport de biblioteques incorporades als processos selectius de l'any 2026",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058817",
+   "Altres subjectes emissors > Consorci de Biblioteques de Barcelona"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058817&type=01&language=ca_ES",
+   "Altres subjectes emissors > Consorci de Biblioteques de Barcelona"
+  ],
+  [
+   "Resolució per la qual s'amplia l'import màxim de la convocatòria de l'any 2026 derivada de les bases reguladores que han de regir la concessió de subvencions en l'àmbit del comerç i dels serveis per a l'any 2026 (codi BDNS 918152)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058861",
+   "Altres subjectes emissors > Consorci de Comerç, Artesania i Moda de Catalunya"
+  ],
+  [
+   "Descarrega",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058861&type=01&language=ca_ES",
+   "Altres subjectes emissors > Consorci de Comerç, Artesania i Moda de Catalunya"
   ],
   [
    "Edicte sobre la decisió de deixar sense efecte la convocatòria del procediment de provisió, per lliure designació amb publicitat i concurrència, del lloc de treball de gerent/a del Consorci del Barri de la Mina",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058700",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058775",
    "Altres subjectes emissors > Consorci del Barri de la Mina"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058700&type=01&language=ca_ES",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058775&type=01&language=ca_ES",
    "Altres subjectes emissors > Consorci del Barri de la Mina"
   ],
   [
-   "Resolució IEMED/31/2026, de 13 d'octubre, per la qual es resol parcialment el procés selectiu, mitjançant el sistema de concurs oposició, corresponent a l'execució de l'oferta d'ocupació pública del Consorci Institut Europeu de la Mediterrània per a l'any 2025, i es declara deserta la convocatòria del lloc de tècnic/a de contractació de l'Àrea de Serveis, en règim de personal laboral fix (exp. RH/2026/01)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058668",
-   "Altres subjectes emissors > Institut Europeu de la Mediterrània"
+   "Anunci sobre dissolució i liquidació de la Cooperativa",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058771",
+   "Altres subjectes emissors > Matís Calderí, SCCL"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058668&type=01&language=ca_ES",
-   "Altres subjectes emissors > Institut Europeu de la Mediterrània"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058771&type=01&language=ca_ES",
+   "Altres subjectes emissors > Matís Calderí, SCCL"
   ],
   [
-   "Resolució IEMED/32/2026, de 16 d'octubre, per la qual s'aproven les bases i es convoca el procés selectiu, mitjançant el sistema de concurs oposició, per a la provisió d'un lloc de treball en règim de personal laboral fix corresponent a l'execució parcial de l'oferta pública d'ocupació del Consorci Institut Europeu de la Mediterrània per a l'any 2026 (exp. RH/2026/04)",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058656",
-   "Altres subjectes emissors > Institut Europeu de la Mediterrània"
+   "DOGC núm. 9790",
+   "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9790",
+   "Altres subjectes emissors > Matís Calderí, SCCL"
+  ],
+  [
+   "Descarrega sumariDescarrega sumari",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/jsp/captcha/RecaptchaServlet.jsp?dogcId=9791A&sumari=true&language=ca_ES",
+   "DOGC núm. 9791A"
+  ],
+  [
+   "Descarrega DOGC completDescarrega DOGC complet",
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?dogcId=9791A&language=ca_ES",
+   "DOGC núm. 9791A"
+  ],
+  [
+   "Veure Annex A",
+   "https://dogc.gencat.cat/ca/sumari-del-dogc/?numDOGC=9791A",
+   "Sumari"
+  ],
+  [
+   "Veure el Suplement notificacions",
+   "https://dogc.gencat.cat/ca/sumari-del-suplement/?numDOGC=9791SN",
+   "Sumari"
+  ],
+  [
+   "Ordre EMT/223/2026, de 10 de novembre, de modificació l'Ordre EMT/220/2026, de 5 de novembre, per la qual es garanteixen els serveis essencials que s'han de prestar a Catalunya durant les convocatòries de vaga general previstes per al dia 11 de novembre de 2026 (DOGC núm. 9789, de 6.11.2026)",
+   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058894",
+   "Altres disposicions > Departament d'Empresa i Treball"
   ],
   [
    "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058656&type=01&language=ca_ES",
-   "Altres subjectes emissors > Institut Europeu de la Mediterrània"
-  ],
-  [
-   "Anunci pel qual es dona publicitat al Conveni de col·laboració entre l'Institut Europeu de la Mediterrània i el Teatre Nacional de Catalunya, SA, per a la coorganització del Debat al voltant de les arts escèniques a l'Orient Mitjà i de la sessió musical associada, en el marc del cicle Barcelona Calling l'Orient Mitjà",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058710",
-   "Altres subjectes emissors > Institut Europeu de la Mediterrània"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058710&type=01&language=ca_ES",
-   "Altres subjectes emissors > Institut Europeu de la Mediterrània"
-  ],
-  [
-   "Anunci sobre dissolució de la Cooperativa i obertura del període de liquidació",
-   "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1058681",
-   "Altres subjectes emissors > Padelgest, SCCL, en liquidació"
-  ],
-  [
-   "Descarrega",
-   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058681&type=01&language=ca_ES",
-   "Altres subjectes emissors > Padelgest, SCCL, en liquidació"
-  ],
-  [
-   "",
-   "https://piwik.pro/?utm_source=App&utm_medium=Consent_Pop_Up&utm_campaign=Consent_Manager_Pop_Up",
-   "Com t'atenem"
+   "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=1058894&type=01&language=ca_ES",
+   "Altres disposicions > Departament d'Empresa i Treball"
   ]
  ]
 }
